@@ -19,3 +19,4 @@
 |Title|Note|
 |---|---|
 |[【秘密惊喜200人!】也太夸张！这次体验让我感悟了很多。。钱真的只是数字](https://www.youtube.com/watch?v=PY2WAEr5q5M)|信用就是錢|
+|[【貴人故事訪問 】“因為他們三個人，改變了我 20歲後的一生。。” ft. DavidJustin](https://www.youtube.com/watch?v=Na_m8gE0uRs)|1. 感恩很重要<br>2. crypto 有不同面向，不同面向也有不同賺錢方式|
