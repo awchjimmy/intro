@@ -13,3 +13,9 @@
 
 【90後】7種 草根賺百萬的方法！给高中畢業生的话！🎓 不看性格 不看學歷 不看你爸有沒有錢！| 宽柔中学Vlog【TheTradveller作手過客】  
 [https://www.youtube.com/watch?v=i1hBSJ6PHNA](https://www.youtube.com/watch?v=i1hBSJ6PHNA)
+
+### 其他筆記
+
+|Title|Note|
+|---|---|
+|[【秘密惊喜200人!】也太夸张！这次体验让我感悟了很多。。钱真的只是数字](https://www.youtube.com/watch?v=PY2WAEr5q5M)|信用就是錢|
