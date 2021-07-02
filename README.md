@@ -16,7 +16,8 @@
 
 ### 其他筆記
 
-|Title|Note|
-|---|---|
-|[【秘密惊喜200人!】也太夸张！这次体验让我感悟了很多。。钱真的只是数字](https://www.youtube.com/watch?v=PY2WAEr5q5M)|信用就是錢|
-|[【貴人故事訪問 】“因為他們三個人，改變了我 20歲後的一生。。” ft. DavidJustin](https://www.youtube.com/watch?v=Na_m8gE0uRs)|1. 感恩很重要<br>2. crypto 有不同面向，不同面向也有不同賺錢方式|
+|Title|Note|Category|
+|---|---|---|
+|[「ZERO2ONE」TheTradveller作手過客-Day1 (會員專屬)](https://www.youtube.com/watch?v=MBb2sjghV88&list=PLZEL7BLnwbFVYtVV2ggWM3IBB0o5MnWh6&index=7)|1. 設定錢包<br>2. 買幣賣幣<br>3. DL Strategy|Trading|
+|[【秘密惊喜200人!】也太夸张！这次体验让我感悟了很多。。钱真的只是数字](https://www.youtube.com/watch?v=PY2WAEr5q5M)|信用就是錢|價值觀|
+|[【貴人故事訪問 】“因為他們三個人，改變了我 20歲後的一生。。” ft. DavidJustin](https://www.youtube.com/watch?v=Na_m8gE0uRs)|1. 感恩很重要<br>2. crypto 有不同面向，不同面向也有不同賺錢方式|新鮮資訊|
