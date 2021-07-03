@@ -28,9 +28,10 @@
 |[用中国朝代兴衰看Dogecoin狗狗币的未来发展！Dogecoin到底能买吗？我到底收不收Dogecoin狗狗币呢？](https://www.youtube.com/watch?v=QH4CHPEAnLU)|1. 對貨幣的認識<br>2. 通膨跟限縮對社會的影響|新鮮資訊|
 |[貸款買車必看！想要一輩子背債？低月付買車背後的真相，揭露車商不願說的事實!【弘達來揭密】](https://www.youtube.com/watch?v=H-0rsGPelco)|分期付款前必須了解|價值觀|
 
-#### 實際走出來的例子
+### 實際走出來的例子
 |Title|Note|
 |---|---|
 |[【90後】7種 草根賺百萬的方法！给高中畢業生的话！🎓 不看性格 不看學歷 不看你爸有沒有錢！](https://www.youtube.com/watch?v=i1hBSJ6PHNA)|Anson Tan<br>Trading|
 |[【线上赚钱2021】学生如何赚钱? 他17岁在 Online赚钱 RM3,450,000!? 教你线上赚钱2021 马来西亚!](https://www.youtube.com/watch?v=uFYJkakcQiM)|Ainsley Chan<br>Dropshipping|
+|[18岁就创立了自己的 潮牌店【Unofficial】-DJ Perry Kuan 之 创业心路历程【TheTradveller作手過客】](https://www.youtube.com/watch?v=bYJa1GgIajQ)|Perry Kuan<br>DJ、服飾店|
 |[90天把100塊變成100萬大挑戰完結篇！究竟創什麼業才能在小城市裡創造奇蹟！打造百萬企業呢！](https://www.youtube.com/watch?v=QgQG3RUJycg)|Glenn Stearns<br>Discovery 實境秀|
