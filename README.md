@@ -21,6 +21,7 @@
 |[「ZERO2ONE」TheTradveller作手過客-Day1 (會員專屬)](https://www.youtube.com/watch?v=MBb2sjghV88&list=PLZEL7BLnwbFVYtVV2ggWM3IBB0o5MnWh6&index=7)|1. 設定錢包<br>2. 買幣賣幣<br>3. DL Strategy|Trading|
 |[【踢爆 慎入】為什麼我不相信比特幣？勸你也別被騙了！](https://www.youtube.com/watch?v=vIoGAxgeODU)|1. HODLER vs TRADER<br>2. 量子電腦出現是否攻破 BTC|Trading|
 |[519比特幣暴跌血洗32%！反而賺进馬幣一百萬?! 比特幣519腰斬式暴跌 做空賺錢!比特幣血洗爆倉22萬人！](https://www.youtube.com/watch?v=ReHsQcnFgMQ)|鼓勵年輕人，你也做得到|Trading|
+|[Grant Cardone格蘭特·卡多恩-62歲 3億美元房產大亨 盡然在2020年4月 破產了？？！“我看到了什麼？？”](https://www.youtube.com/watch?v=nSnPwOlu1cY)|1. 擺脫負面<br>2. 沒有所謂好時機、準備好，只管開始，不斷修正|價值觀|
 |[Power of Consciousness意識覺醒！-"5 PRACTICAL Steps to Escape from Broke!!" 5招 脫離貧窮！](https://www.youtube.com/watch?v=j-KDTxpSfCw)|怎麼進步|價值觀|
 |[【秘密惊喜200人!】也太夸张！这次体验让我感悟了很多。。钱真的只是数字](https://www.youtube.com/watch?v=PY2WAEr5q5M)|信用就是錢|價值觀|
 |[【貴人故事訪問 】“因為他們三個人，改變了我 20歲後的一生。。” ft. DavidJustin](https://www.youtube.com/watch?v=Na_m8gE0uRs)|1. 感恩很重要<br>2. crypto 有不同面向，不同面向也有不同賺錢方式|新鮮資訊|
