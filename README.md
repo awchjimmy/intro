@@ -27,3 +27,8 @@
 |[【貴人故事訪問 】“因為他們三個人，改變了我 20歲後的一生。。” ft. DavidJustin](https://www.youtube.com/watch?v=Na_m8gE0uRs)|1. 感恩很重要<br>2. crypto 有不同面向，不同面向也有不同賺錢方式|新鮮資訊|
 |[用中国朝代兴衰看Dogecoin狗狗币的未来发展！Dogecoin到底能买吗？我到底收不收Dogecoin狗狗币呢？](https://www.youtube.com/watch?v=QH4CHPEAnLU)|1. 對貨幣的認識<br>2. 通膨跟限縮對社會的影響|新鮮資訊|
 |[貸款買車必看！想要一輩子背債？低月付買車背後的真相，揭露車商不願說的事實!【弘達來揭密】](https://www.youtube.com/watch?v=H-0rsGPelco)|分期付款前必須了解|價值觀|
+
+#### 實際走出來的例子
+|Title|Note|
+|---|---|
+|[90天把100塊變成100萬大挑戰完結篇！究竟創什麼業才能在小城市裡創造奇蹟！打造百萬企業呢！](https://www.youtube.com/watch?v=QgQG3RUJycg)|Discovery 實境秀|
