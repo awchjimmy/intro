@@ -19,6 +19,8 @@
 |Title|Note|Category|
 |---|---|---|
 |[「ZERO2ONE」TheTradveller作手過客-Day1 (會員專屬)](https://www.youtube.com/watch?v=MBb2sjghV88&list=PLZEL7BLnwbFVYtVV2ggWM3IBB0o5MnWh6&index=7)|1. 設定錢包<br>2. 買幣賣幣<br>3. DL Strategy|Trading|
+|[如果90%的虛擬貨幣投資者都是虧錢的。。那要怎样成为那10%？合約交易 槓桿交易比特幣的避忌！看清交易的本質！](https://www.youtube.com/watch?v=VLkmmzB3tHY)|要常常拿出來複習|Trading|
+|[「ZERO2ONE」TheTradveller作手過客-Day1 (會員專屬)](https://www.youtube.com/watch?v=MBb2sjghV88&list=PLZEL7BLnwbFVYtVV2ggWM3IBB0o5MnWh6&index=7)|1. 設定錢包<br>2. 買幣賣幣<br>3. DL Strategy|Trading|
 |[【踢爆 慎入】為什麼我不相信比特幣？勸你也別被騙了！](https://www.youtube.com/watch?v=vIoGAxgeODU)|1. HODLER vs TRADER<br>2. 量子電腦出現是否攻破 BTC|Trading|
 |[519比特幣暴跌血洗32%！反而賺进馬幣一百萬?! 比特幣519腰斬式暴跌 做空賺錢!比特幣血洗爆倉22萬人！](https://www.youtube.com/watch?v=ReHsQcnFgMQ)|鼓勵年輕人，你也做得到|Trading|
 |[Grant Cardone格蘭特·卡多恩-62歲 3億美元房產大亨 盡然在2020年4月 破產了？？！“我看到了什麼？？”](https://www.youtube.com/watch?v=nSnPwOlu1cY)|1. 擺脫負面<br>2. 沒有所謂好時機、準備好，只管開始，不斷修正|價值觀|
