@@ -31,6 +31,7 @@
 |---|---|---|
 |[Grant Cardone格蘭特·卡多恩-62歲 3億美元房產大亨 盡然在2020年4月 破產了？？！“我看到了什麼？？”](https://www.youtube.com/watch?v=nSnPwOlu1cY)|1. 擺脫負面<br>2. 沒有所謂好時機、準備好，只管開始，不斷修正|價值觀|
 |[Power of Consciousness意識覺醒！-"5 PRACTICAL Steps to Escape from Broke!!" 5招 脫離貧窮！](https://www.youtube.com/watch?v=j-KDTxpSfCw)|怎麼進步|價值觀|
+|[【三赢模式】这个世界從來就不缺钱，缺的是你赚钱的能力。。](https://www.youtube.com/watch?v=5uZvXSvs7hc)|1. 錢的語言<br>2. 不避諱談錢的朋友<br>3. 轉錢 (循環)<br>4. 借力使力<br>5. 談判創造共贏<br>6. 誠信<br>7. 學會說不，保護時間|價值觀|
 |[【秘密惊喜200人!】也太夸张！这次体验让我感悟了很多。。钱真的只是数字](https://www.youtube.com/watch?v=PY2WAEr5q5M)|信用就是錢|價值觀|
 |[貸款買車必看！想要一輩子背債？低月付買車背後的真相，揭露車商不願說的事實!【弘達來揭密】](https://www.youtube.com/watch?v=H-0rsGPelco)|分期付款前必須了解|價值觀|
 
