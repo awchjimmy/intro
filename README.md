@@ -49,3 +49,8 @@
 |[【线上赚钱2021】学生如何赚钱? 他17岁在 Online赚钱 RM3,450,000!? 教你线上赚钱2021 马来西亚!](https://www.youtube.com/watch?v=uFYJkakcQiM)|Ainsley Chan<br>Dropshipping|
 |[18岁就创立了自己的 潮牌店【Unofficial】-DJ Perry Kuan 之 创业心路历程【TheTradveller作手過客】](https://www.youtube.com/watch?v=bYJa1GgIajQ)|Perry Kuan<br>DJ、服飾店|
 |[90天把100塊變成100萬大挑戰完結篇！究竟創什麼業才能在小城市裡創造奇蹟！打造百萬企業呢！](https://www.youtube.com/watch?v=QgQG3RUJycg)|Glenn Stearns<br>Discovery 實境秀|
+
+#### 覺得人生沒有意義，一定要花時間看的影片
+|Title|Note|
+|---|---|
+|[【越哥】80分钟看完《我们与恶的距离》全集：近十年最好的台剧，每个人都身处其中！](https://www.youtube.com/watch?v=N9rrLU66298)||
