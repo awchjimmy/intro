@@ -55,3 +55,8 @@
 |Title|Note|
 |---|---|
 |[【越哥】80分钟看完《我们与恶的距离》全集：近十年最好的台剧，每个人都身处其中！](https://www.youtube.com/watch?v=N9rrLU66298)||
+
+#### 沒想過可以這樣
+|Title|Note|
+|---|---|
+|[How we can hack the surfaces around us with projection mapping  Joe Crossley  TEDxUbud](https://www.youtube.com/watch?v=hnEGU8ZGxHI)|投影+攝影+人工智慧 => 加速植物生長|
