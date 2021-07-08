@@ -34,6 +34,7 @@
 |[【三赢模式】这个世界從來就不缺钱，缺的是你赚钱的能力。。](https://www.youtube.com/watch?v=5uZvXSvs7hc)|1. 錢的語言<br>2. 不避諱談錢的朋友<br>3. 轉錢 (循環)<br>4. 借力使力<br>5. 談判創造共贏<br>6. 誠信<br>7. 學會說不，保護時間|價值觀|
 |[【秘密惊喜200人!】也太夸张！这次体验让我感悟了很多。。钱真的只是数字](https://www.youtube.com/watch?v=PY2WAEr5q5M)|信用就是錢|價值觀|
 |[貸款買車必看！想要一輩子背債？低月付買車背後的真相，揭露車商不願說的事實!【弘達來揭密】](https://www.youtube.com/watch?v=H-0rsGPelco)|分期付款前必須了解|價值觀|
+|[為什麼你不該抱怨？停止抱怨，開始行動。](https://www.youtube.com/watch?v=MkiOXQcXZVE)|停止抱怨，開始行動|價值觀|
 
 #### 新鮮資訊類
 |Title|Note|Category|
