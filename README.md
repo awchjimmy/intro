@@ -24,6 +24,7 @@
 |[【Trader辛酸5+1】如果你不能承受這些，勸你還是別做“全職Full-time Trader”的夢了。。](https://www.youtube.com/watch?v=Kjf1TIZ25_k)|1. 必經過程<br>2. 做莊|Trading|
 |[【踢爆 慎入】為什麼我不相信比特幣？勸你也別被騙了！](https://www.youtube.com/watch?v=vIoGAxgeODU)|1. HODLER vs TRADER<br>2. 量子電腦出現是否攻破 BTC|Trading|
 |[519比特幣暴跌血洗32%！反而賺进馬幣一百萬?! 比特幣519腰斬式暴跌 做空賺錢!比特幣血洗爆倉22萬人！](https://www.youtube.com/watch?v=ReHsQcnFgMQ)|鼓勵年輕人，你也做得到|Trading|
+|[【Trader Emotion Handling】“Trade的真正秘訣 遠在天邊近在眼前！"Trade Live Q&A! 敢问敢答！](https://www.youtube.com/watch?v=NevKlpgU5Jo)|1. Emotion Control (日記)<br>2. 4HR / 1D 衝突怎麼處理 (Safety Pin)|Trading|
 
 
 #### 價值觀類
