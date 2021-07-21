@@ -36,6 +36,7 @@
 |[【秘密惊喜200人!】也太夸张！这次体验让我感悟了很多。。钱真的只是数字](https://www.youtube.com/watch?v=PY2WAEr5q5M)|信用就是錢|價值觀|
 |[［完整］財富自由提早退休FIRE完整攻略。9個步驟建立被動收入](https://www.youtube.com/watch?v=neUuTJJESuc)|FIRE如何實踐|價值觀|
 |[貸款買車必看！想要一輩子背債？低月付買車背後的真相，揭露車商不願說的事實!【弘達來揭密】](https://www.youtube.com/watch?v=H-0rsGPelco)|分期付款前必須了解|價值觀|
+|[《心理学》李雪琴和张小斐为什么会爆红。](https://www.youtube.com/watch?v=WOQFm_GNf9I)|1. 不下桌<br>2. 如果你抱怨現在的環境，想換工作，建議你看完重新思考|價值觀|
 |[為什麼你不該抱怨？停止抱怨，開始行動。](https://www.youtube.com/watch?v=MkiOXQcXZVE)|停止抱怨，開始行動|價值觀|
 
 #### 新鮮資訊類
