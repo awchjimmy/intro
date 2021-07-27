@@ -55,10 +55,11 @@
 |[所有人，想要網路創業之前，請把這部影片一秒一秒看完。 普通人從0開始 網路賺錢「終極攻略」](https://www.youtube.com/watch?v=F0iM4hbW6Bs)|小船<br>自媒體創業|
 |[90天把100塊變成100萬大挑戰完結篇！究竟創什麼業才能在小城市裡創造奇蹟！打造百萬企業呢！](https://www.youtube.com/watch?v=QgQG3RUJycg)|Glenn Stearns<br>Discovery 實境秀|
 
-#### 覺得人生沒有意義，一定要花時間看的影片
+#### 感動到哭
 |Title|Note|
 |---|---|
 |[【越哥】80分钟看完《我们与恶的距离》全集：近十年最好的台剧，每个人都身处其中！](https://www.youtube.com/watch?v=N9rrLU66298)||
+|[Jerusalem of Gold / Yerushalayim Shel Zahav - André Rieu, Tel Aviv, Israel 2018](https://www.youtube.com/watch?v=Im5lh2kJWTI)||
 
 #### 沒想過可以這樣
 |Title|Note|
