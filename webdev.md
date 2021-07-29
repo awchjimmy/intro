@@ -12,3 +12,4 @@
 |標題|說明|
 |---|---|
 |[Re: [問題]中年失業](https://www.ptt.cc/bbs/Salary/M.1597548895.A.B55.html)|現在就要規劃退休|
+|[Re: [討論] 失業補助有這麼好?](https://www.ptt.cc/bbs/Salary/M.1605710412.A.3F9.html)|領失業補助有多難|
