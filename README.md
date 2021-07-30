@@ -65,5 +65,6 @@
 #### 沒想過可以這樣
 |Title|Note|
 |---|---|
+|[脱口秀大会3冠军王勉合集，音乐鬼才爆笑炸场](https://www.youtube.com/watch?v=0QZ26VTCkJo)|音樂脫口秀|
 |[How we can hack the surfaces around us with projection mapping  Joe Crossley  TEDxUbud](https://www.youtube.com/watch?v=hnEGU8ZGxHI)|投影+攝影+人工智慧 => 加速植物生長|
 |[Unreal Engine 5 - The Future of Filmmaking?](https://www.youtube.com/watch?v=aZAAMpyTH_Y)|UE5 用在電影產業|
