@@ -19,6 +19,7 @@
 |[疫情讓人們意識到人生只有一次、要為自己而活，YOLO風席捲歐美，亞洲也會同樣嗎？！](https://www.youtube.com/watch?v=5bT8qZA98ls)|工作再忙也要想這個問題|
 
 ### 未命名資料夾
-|標題|說明|
+|標題|作者|
 |---|---|
-|[Delphi MapleStory Client](https://forum.ragezone.com/f920/delphi-maplestory-client-893128/)||
+|[Delphi MapleStory Client](https://forum.ragezone.com/f920/delphi-maplestory-client-893128/)|Elem8100|
+|[Road to a Localhost](https://forum.ragezone.com/f920/road-localhost-1130734/)|br1337|
