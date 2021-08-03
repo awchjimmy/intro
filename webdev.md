@@ -16,3 +16,4 @@
 |[Re: [問題] 如何訓練自己能隨時想到下一步要怎麼做？](https://www.ptt.cc/bbs/Salary/M.1627438462.A.CB5.html)|建立SOP這個觀點滿有意思|
 |[[問題] 為家中還債之工作考量代po](https://www.ptt.cc/bbs/Salary/M.1627398604.A.666.html)|15年還1500萬|
 |[Re: [閒聊] 截止日未到就狂催](https://www.ptt.cc/bbs/Salary/M.1626106029.A.7BD.html)|都是大人了，不要別人催的好習慣|
+|[疫情讓人們意識到人生只有一次、要為自己而活，YOLO風席捲歐美，亞洲也會同樣嗎？！](https://www.youtube.com/watch?v=5bT8qZA98ls)|工作再忙也要想這個問題|
