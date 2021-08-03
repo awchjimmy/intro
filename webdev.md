@@ -23,3 +23,4 @@
 |---|---|
 |[Delphi MapleStory Client](https://forum.ragezone.com/f920/delphi-maplestory-client-893128/)|Elem8100|
 |[Road to a Localhost](https://forum.ragezone.com/f920/road-localhost-1130734/)|br1337|
+|[Injecting code inside MapleStory using a DLL proxy](https://forum.ragezone.com/f922/injecting-code-inside-maplestory-using-1111732/)|br1337|
