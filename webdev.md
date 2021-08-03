@@ -27,3 +27,4 @@
 |[[Guide] Understanding OnTemporaryStatSet](https://forum.ragezone.com/f428/guide-understanding-ontemporarystatset-1132091/)|AngelSpirit|
 |[Updating a Server from One Version to Another [Updated]](https://forum.ragezone.com/f428/updating-server-version-updated-762816/)|SuperLol|
 |[The Performance Increasing Guide](https://forum.ragezone.com/f428/performance-increasing-guide-782839/)|SuperLol|
+|[[Release] v139 no VPN redirector](https://forum.ragezone.com/f690/release-v139-vpn-redirector-947817/)|Kona|
