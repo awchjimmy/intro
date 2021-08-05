@@ -30,3 +30,8 @@
 |[Updating a Server from One Version to Another [Updated]](https://forum.ragezone.com/f428/updating-server-version-updated-762816/)|SuperLol|
 |[The Performance Increasing Guide](https://forum.ragezone.com/f428/performance-increasing-guide-782839/)|SuperLol|
 |[[Release] v139 no VPN redirector](https://forum.ragezone.com/f690/release-v139-vpn-redirector-947817/)|Kona|
+
+### 蒐集一些警察局的事情
+|標題|關鍵詞|
+|---|---|
+|[第二分局淨樓專案強化友善通報網　淨化社區好安居](https://www.police.taichung.gov.tw/precinct2/home.jsp?id=10&parentpath=0,1&mcustomize=news_view.jsp&dataserno=202009220001&mserno=201710280009)|1. 第二分局<br>2. 淨樓專案<br>3. 友善通報網|
