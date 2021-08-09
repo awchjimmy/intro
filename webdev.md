@@ -12,6 +12,7 @@
 |標題|說明|
 |---|---|
 |[[心得] 31歲非本科無經驗後端轉職心得](https://moptt.tw/p/Soft_Job.M.1628176666.A.F70)|1. 11萬 3個月<br>2. 緯育 Java|
+|[[心得] 29歲的我資策會結訓](https://moptt.tw/p/Soft_Job.M.1628134611.A.439)|5個月 資策會|
 |[大工程師時代！人人都能開課當講師! 速成補習班的真相 工程師 Nic](https://www.youtube.com/watch?v=DRB0Z34nwho)|我適合去補習班學程式嗎|
 |[面試沒有錄取的原因? 成為技術面試官才知道的事!! 如何建立好的面試過程?](https://www.youtube.com/watch?v=yFMmkoqDPlM)|學會表達自己|
 
