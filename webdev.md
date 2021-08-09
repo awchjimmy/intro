@@ -26,6 +26,7 @@
 |[[問題] 為家中還債之工作考量代po](https://www.ptt.cc/bbs/Salary/M.1627398604.A.666.html)|15年還1500萬|
 |[Re: [閒聊] 截止日未到就狂催](https://www.ptt.cc/bbs/Salary/M.1626106029.A.7BD.html)|都是大人了，不要別人催的好習慣|
 |[疫情讓人們意識到人生只有一次、要為自己而活，YOLO風席捲歐美，亞洲也會同樣嗎？！](https://www.youtube.com/watch?v=5bT8qZA98ls)|工作再忙也要想這個問題|
+|[[討論] 自身能力不足是會選擇自己離職還是撐下去](https://moptt.tw/p/Salary.M.1628194500.A.07A)||
 
 ### 未命名資料夾
 |標題|作者|
