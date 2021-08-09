@@ -8,6 +8,13 @@
 |[SQL LIKE](https://www.1keydata.com/tw/sql/sqllike.html)<br>[SQL UPDATE](https://www.1keydata.com/tw/sql/sqlupdate.html)|基本 SQL|
 |[PHPExcel 在 PHP7.0 以上版本报错](https://learnku.com/articles/26675)|20年老專案，又不好整套換掉，只好出此奇招|
 
+### 準工程師
+|標題|說明|
+|---|---|
+|[[心得] 31歲非本科無經驗後端轉職心得](https://moptt.tw/p/Soft_Job.M.1628176666.A.F70)|1. 11萬 3個月<br>2. 緯育 Java|
+|[大工程師時代！人人都能開課當講師! 速成補習班的真相 工程師 Nic](https://www.youtube.com/watch?v=DRB0Z34nwho)|我適合去補習班學程式嗎|
+|[面試沒有錄取的原因? 成為技術面試官才知道的事!! 如何建立好的面試過程?](https://www.youtube.com/watch?v=yFMmkoqDPlM)|學會表達自己|
+
 ### 職場類
 |標題|說明|
 |---|---|
@@ -16,8 +23,6 @@
 |[Re: [問題] 如何訓練自己能隨時想到下一步要怎麼做？](https://www.ptt.cc/bbs/Salary/M.1627438462.A.CB5.html)|建立SOP這個觀點滿有意思|
 |[[問題] 為家中還債之工作考量代po](https://www.ptt.cc/bbs/Salary/M.1627398604.A.666.html)|15年還1500萬|
 |[Re: [閒聊] 截止日未到就狂催](https://www.ptt.cc/bbs/Salary/M.1626106029.A.7BD.html)|都是大人了，不要別人催的好習慣|
-|[大工程師時代！人人都能開課當講師! 速成補習班的真相 工程師 Nic](https://www.youtube.com/watch?v=DRB0Z34nwho)|我適合去補習班學程式嗎|
-|[面試沒有錄取的原因? 成為技術面試官才知道的事!! 如何建立好的面試過程?](https://www.youtube.com/watch?v=yFMmkoqDPlM)|學會表達自己|
 |[疫情讓人們意識到人生只有一次、要為自己而活，YOLO風席捲歐美，亞洲也會同樣嗎？！](https://www.youtube.com/watch?v=5bT8qZA98ls)|工作再忙也要想這個問題|
 
 ### 未命名資料夾
