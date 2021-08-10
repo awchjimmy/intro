@@ -50,3 +50,8 @@
 |[小神捕](https://police.gov.taipei/News_Content.aspx?n=35C593B220DEF39D&sms=9E7272CD3A51D7D4&s=76A9BA477371CB24)|1. 小神捕<br>2. 肅竊查贓|
 |[運用現代科技協助破案](https://police.gov.taipei/News_Content.aspx?n=35C593B220DEF39D&sms=9E7272CD3A51D7D4&s=D92CB9712D141E7C)|1. 基地台定位<br>2. 工模機<br>3. 社交工程|
 |[電影和影集中的「洗錢策略」竟是教授上課的題材？金融犯罪防制教授告訴你洗錢是怎麼一回事](https://www.youtube.com/watch?v=nJw9z1K6mRc)|好萊塢電影可以搞錯物理<br>搞錯化學 搞錯任何東西<br>唯獨洗錢不會搞錯<br>我好像知道了什麼|
+
+### Coding 背景音樂
+|標題|什麼時期喜歡|
+|---|---|
+|[广场鬼步舞《回头看看我》歌好听舞好看，想学跳就跟着练](https://www.youtube.com/watch?v=Q6o7wvA7SUY)|2021.08|
