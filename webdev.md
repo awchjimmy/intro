@@ -55,3 +55,4 @@
 |標題|什麼時期喜歡|
 |---|---|
 |[广场鬼步舞《回头看看我》歌好听舞好看，想学跳就跟着练](https://www.youtube.com/watch?v=Q6o7wvA7SUY)|2021.08|
+|[ASTERIA - Dancing With The Moon [MapleStory Symphony in Budapest]](https://www.youtube.com/watch?v=HyfrbLAEUGk&list=RDMM)|2017.01|
