@@ -26,6 +26,7 @@
 |[【踢爆 慎入】為什麼我不相信比特幣？勸你也別被騙了！](https://www.youtube.com/watch?v=vIoGAxgeODU)|1. HODLER vs TRADER<br>2. 量子電腦出現是否攻破 BTC|Trading|
 |[519比特幣暴跌血洗32%！反而賺进馬幣一百萬?! 比特幣519腰斬式暴跌 做空賺錢!比特幣血洗爆倉22萬人！](https://www.youtube.com/watch?v=ReHsQcnFgMQ)|鼓勵年輕人，你也做得到|Trading|
 |[【Trader Emotion Handling】“Trade的真正秘訣 遠在天邊近在眼前！"Trade Live Q&A! 敢问敢答！](https://www.youtube.com/watch?v=NevKlpgU5Jo)|1. Emotion Control (日記)<br>2. 4HR / 1D 衝突怎麼處理 (Safety Pin)|Trading|
+|[這就是差別！高手 vs 業餘](https://www.youtube.com/watch?v=rPGuPFZWAmE)|總複習的概念<br>1. 4h 15m SNR<br>2. Margin Control<br>3. Risk Reward Ratio|Trading|
 
 
 #### 價值觀類
