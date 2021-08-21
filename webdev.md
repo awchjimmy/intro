@@ -3,6 +3,7 @@
 ### 技術類
 |標題|說明|分類
 |---|---|---|
+|[input type=file accept中限制文件类型pdf等格式](https://blog.csdn.net/usuallyuser/article/details/83060341)|限制檔案上傳格式|HTML|
 |[使用 Bootstrap 4 顯示/隱藏 HTML 元素](https://blog.poychang.net/visible-and-hidden-in-bootstrap-4/)|手機版/電腦版靈活切換|CSS|
 |[CSS 垂直置中的三個方法](https://www.oxxostudio.tw/articles/201408/css-vertical-align.html)|如何垂直對齊|CSS|
 |[get radio box value in jquery](https://stackoverflow.com/questions/6614279/get-radio-box-value-in-jquery)|`$("[name='shipping_type']:checked").val()`|JS|
