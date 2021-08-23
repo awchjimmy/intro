@@ -11,3 +11,4 @@
 ### 一定要學會的幾個觀念
 * Risk Reward Ratio
 * Stop Loss / Take Profit / Safety Pin
+* SNR & EMA & MACD
