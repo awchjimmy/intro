@@ -9,6 +9,7 @@
 |價錢永遠沒有已經很高了 / 已經很低了|1. 請看 Trend 指標<br>2. 莊家要拉盤一定可以拉盤|
 
 ### 一定要學會的幾個觀念
-* Risk Reward Ratio
+* Risk Reward Ratio / Margin
 * Stop Loss / Take Profit / Safety Pin
 * SNR & EMA & MACD
+* Fibo Retracements
