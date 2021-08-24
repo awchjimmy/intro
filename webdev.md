@@ -75,4 +75,4 @@
 |[社團法人中華職訓教育協會](https://www.taiwanedu.org.tw/course_popular.php)|PHP 班|
 
 ### 目前遇到、尚未深入了解的問題
-* TCP Timestamps (Low) [如何關閉 TCP timestamp](https://blog.xuite.net/tolarku/blog/68298378-%E5%A6%82%E4%BD%95%E9%97%9C%E9%96%89+TCP+timestamp)
+* TCP Timestamps (Low) [Fixing Vulnerabilities in TCP Timestamps Retrieval](https://www.linuxsecrets.com/discussions/8834-fixing-vulnerabilities-in-tcp-timestamps-retrieval) [如何關閉 TCP timestamp](https://blog.xuite.net/tolarku/blog/68298378-%E5%A6%82%E4%BD%95%E9%97%9C%E9%96%89+TCP+timestamp)
