@@ -73,3 +73,6 @@
 |---|---|
 |[freeCodeCamp](https://chinese.freecodecamp.org/learn/responsive-web-design/)|免費學寫網站，有效！|
 |[社團法人中華職訓教育協會](https://www.taiwanedu.org.tw/course_popular.php)|PHP 班|
+
+### 目前遇到、尚未深入了解的問題
+* TCP Timestamps (Low) [如何關閉 TCP timestamp](https://blog.xuite.net/tolarku/blog/68298378-%E5%A6%82%E4%BD%95%E9%97%9C%E9%96%89+TCP+timestamp)
