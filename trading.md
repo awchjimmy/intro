@@ -1,5 +1,6 @@
 # Trading Tips
 總結經驗，寫給自己的話
+
 ### 開單前想清楚這些事
 |Tips|說明|
 |---|---|
@@ -31,3 +32,10 @@
 1. 可能 Take Profit 的時候，沒差多少
 2. 價格不漂亮，回撤會掃出場
 ```
+
+### 指定 Trading Plan
+1. 現在大 Trend 是什麼方向 (DL Trend)
+2. 發展到什麼階段了 (Fibonacci Retracements)
+3. 短線 還是 中長線
+4. Maximum Loss 是多少？ Risk Reward Ratio 是多少？
+5. Cut Loss / Take Profit 多少？為什麼？
