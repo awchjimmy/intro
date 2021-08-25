@@ -33,7 +33,7 @@
 2. 價格不漂亮，回撤會掃出場
 ```
 
-### 指定 Trading Plan
+### 制定 Trading Plan
 1. 現在大 Trend 是什麼方向 (DL Trend)
 2. 發展到什麼階段了 (Fibonacci Retracements)
 3. 短線 還是 中長線
