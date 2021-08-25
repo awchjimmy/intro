@@ -10,7 +10,8 @@
 ### 一定要學會的幾個觀念
 * Risk Reward Ratio / Margin
 * Stop Loss / Take Profit / Safety Pin
-* SNR & EMA & MACD
+* SNR / EMA
+* MACD & Divergence
 * Fibo Retracements
 
 ### 要不要加倉
