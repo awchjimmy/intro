@@ -6,12 +6,13 @@
 |一切按著計劃執行|沒有計畫怎麼按照計畫執行？<br>所以沒計畫前別進場|
 |不要跟 DL Trend 作對|Risk Reward Ratio 不漂亮|
 |價錢永遠沒有已經很高了 / 已經很低了|1. 請看 Trend 指標<br>2. 莊家要拉盤一定可以拉盤|
+|不做山寨幣合約|很難找到強的SNR，插針就出場|
 
 ### 一定要學會的幾個觀念
 * Risk Reward Ratio / Margin
 * Stop Loss / Take Profit / Safety Pin
 * SNR / EMA
-* MACD & Divergence
+* MACD / Bullish Divergence & Bearish Divergence
 * Fibo Retracements
 
 ### 要不要加倉
