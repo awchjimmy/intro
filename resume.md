@@ -35,3 +35,7 @@
 
 ### 其他經歷
 1. 程式家教 - 大學生 Java / Python / Arduino / Matlab 程式設計
+
+### 聯繫方式
+* Email：awchjimmy@gmail.com
+* 手機：0928-649506 王先生 (週一~週六 09:00-18:00)
