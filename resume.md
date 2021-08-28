@@ -22,8 +22,7 @@
 ### 技能
 |技能|分類|
 |---|---|
-|HTML / CSS / Javascript|開發、前端|
-|Bootstrap / JQuery|開發、前端|
+|HTML, CSS, Javascript / Bootstrap, JQuery|開發、前端|
 |PHP / Smarty|開發、後端|
 |MySQL|開發、資料庫|
 |Gitlab|維運|
