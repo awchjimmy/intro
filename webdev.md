@@ -9,10 +9,9 @@
 |[get radio box value in jquery](https://stackoverflow.com/questions/6614279/get-radio-box-value-in-jquery)|`$("[name='shipping_type']:checked").val()`|JS|
 |[SQL LIKE](https://www.1keydata.com/tw/sql/sqllike.html)<br>[SQL UPDATE](https://www.1keydata.com/tw/sql/sqlupdate.html)<br>[SQL INSERT INTO SELECT](https://www.w3schools.com/SQL/sql_insert_into_select.asp)|基本 SQL|SQL|
 |[PHPExcel 在 PHP7.0 以上版本报错](https://learnku.com/articles/26675)|20年老專案，又不好整套換掉，只好出此奇招|PHP Library|
+|[10分鐘信箱](https://10minutemail.net/?lang=zh-tw)|免洗信箱|工具|
 
-
-
-### 準工程師
+### 準工程師 (學生、轉職)
 |標題|說明|
 |---|---|
 |[[心得] 31歲非本科無經驗後端轉職心得](https://moptt.tw/p/Soft_Job.M.1628176666.A.F70)|1. 11萬 3個月<br>2. 緯育 Java|
@@ -21,7 +20,12 @@
 |[大工程師時代！人人都能開課當講師! 速成補習班的真相 工程師 Nic](https://www.youtube.com/watch?v=DRB0Z34nwho)|我適合去補習班學程式嗎|
 |[面試沒有錄取的原因? 成為技術面試官才知道的事!! 如何建立好的面試過程?](https://www.youtube.com/watch?v=yFMmkoqDPlM)|學會表達自己|
 
-### 職場類
+### 職場 (工程師)
+|標題|說明|
+|---|---|
+|[高速成長最佳時機! 從新手到 3 年經驗的軟體工程師應該具備的實力](https://www.youtube.com/watch?v=ucilRHmNoEs)|3年內應該培養的能力|
+
+### 職場 (一般)
 |標題|說明|
 |---|---|
 |[Re: [問題]中年失業](https://www.ptt.cc/bbs/Salary/M.1597548895.A.B55.html)|現在就要規劃退休|
@@ -31,11 +35,6 @@
 |[Re: [閒聊] 截止日未到就狂催](https://www.ptt.cc/bbs/Salary/M.1626106029.A.7BD.html)|都是大人了，不要別人催的好習慣|
 |[疫情讓人們意識到人生只有一次、要為自己而活，YOLO風席捲歐美，亞洲也會同樣嗎？！](https://www.youtube.com/watch?v=5bT8qZA98ls)|工作再忙也要想這個問題|
 |[[討論] 自身能力不足是會選擇自己離職還是撐下去](https://moptt.tw/p/Salary.M.1628194500.A.07A)||
-
-### 工具類
-|標題|說明|
-|---|---|
-|[10分鐘信箱](https://10minutemail.net/?lang=zh-tw)|免洗信箱|
 
 ### 台中精選職缺
 |職缺內容|薪資|最後更新
