@@ -14,7 +14,7 @@
 ### 曾使用的功能速查
 ||||||
 |---|---|---|---|---|
-|[輪播 owlCaroursel2]()|[文稿編輯器 CKEditor]()|[顏色選擇 pickr]()|||
+|[輪播 owlCaroursel2]()|[文稿編輯器 CKEditor]()|[顏色選擇 pickr]()|[匯出Excel PHPExcel]()|[發電子郵件 PHPMailer]()|
 
 ### 準工程師 (學生、轉職)
 |標題|說明|
