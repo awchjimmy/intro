@@ -20,12 +20,12 @@
 |[大工程師時代！人人都能開課當講師! 速成補習班的真相 工程師 Nic](https://www.youtube.com/watch?v=DRB0Z34nwho)|我適合去補習班學程式嗎|
 |[面試沒有錄取的原因? 成為技術面試官才知道的事!! 如何建立好的面試過程?](https://www.youtube.com/watch?v=yFMmkoqDPlM)|學會表達自己|
 
-### 職場 (工程師)
+### 工程師
 |標題|說明|
 |---|---|
 |[高速成長最佳時機! 從新手到 3 年經驗的軟體工程師應該具備的實力](https://www.youtube.com/watch?v=ucilRHmNoEs)|3年內應該培養的能力|
 
-### 職場 (一般)
+### 職場心態
 |標題|說明|
 |---|---|
 |[Re: [問題]中年失業](https://www.ptt.cc/bbs/Salary/M.1597548895.A.B55.html)|現在就要規劃退休|
