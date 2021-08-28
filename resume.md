@@ -20,14 +20,15 @@
 |關貿網路|實習|2018.01-2019.06|
 
 ### 技能
-##### 開發
-* HTML / CSS / Javascript
-* Bootstrap / JQuery
-* PHP / Smarty
-* MySQL
-##### 維運
-* Plesk
-* Ubuntu
+|技能|分類|
+|---|---|
+|HTML / CSS / Javascript|開發、前端|
+|Bootstrap / JQuery|開發、前端|
+|PHP / Smarty|開發、後端|
+|MySQL|開發、資料庫|
+|Gitlab|維運|
+|Plesk|維運|
+|Ubuntu|維運|
 
 ### 期望工作地點
 * 台中
