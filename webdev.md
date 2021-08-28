@@ -11,6 +11,11 @@
 |[PHPExcel 在 PHP7.0 以上版本报错](https://learnku.com/articles/26675)|20年老專案，又不好整套換掉，只好出此奇招|PHP Library|
 |[10分鐘信箱](https://10minutemail.net/?lang=zh-tw)|免洗信箱|工具|
 
+### 曾使用的功能速查
+||||||
+|---|---|---|---|---|
+|[輪播 owlCaroursel2]()|[文稿編輯器 CKEditor]()|[顏色選擇 pickr]()|||
+
 ### 準工程師 (學生、轉職)
 |標題|說明|
 |---|---|
