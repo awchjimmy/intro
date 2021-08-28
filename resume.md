@@ -26,10 +26,10 @@
 ### Domain Knowledge
 |Domain|說明|範例|
 |---|---|---|
-|無障礙網頁|公家單位無障礙|[彰化市公所](https://www.changhua.gov.tw/)、[衛福部朴子醫院](https://www.puzih.mohw.gov.tw/)|
-|綠界金流|企業購物網站金流串接|[正光藥局](http://www.cheng-kuang.btb.tw/)|
 |大學官網|最新消息、活動介紹、花絮剪影、報名表單|[高科大海環系](http://www.mee.nkmu.btb.tw/)|
 |企業官網|產品介紹、購物車|[連線科技](http://www.link-net.com.tw/)|
+|無障礙網頁|公家單位無障礙|[彰化市公所](https://www.changhua.gov.tw/)、[衛福部朴子醫院](https://www.puzih.mohw.gov.tw/)|
+|綠界金流|企業購物網站金流串接|[正光藥局](http://www.cheng-kuang.btb.tw/)|
 
 ### 期望工作地點
 * 台中
