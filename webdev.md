@@ -46,6 +46,7 @@
 |職缺內容|薪資|最後更新
 |---|---|---|
 |[鼎新電腦-前端工程師(台中)](https://www.104.com.tw/job/5fgc6?jobsource=2018indexpoc)|35K+|2021.08|
+|[威德數位設計-PHP 程式設計師(台中)](https://www.104.com.tw/job/4fbwd?jobsource=cs_2018indexpoc)|34K+|2021.08|
 
 ### 未命名資料夾
 |標題|作者|
