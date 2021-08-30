@@ -10,6 +10,7 @@
 |[SQL LIKE](https://www.1keydata.com/tw/sql/sqllike.html)<br>[SQL UPDATE](https://www.1keydata.com/tw/sql/sqlupdate.html)<br>[SQL INSERT INTO SELECT](https://www.w3schools.com/SQL/sql_insert_into_select.asp)|基本 SQL|SQL|
 |[PHPExcel 在 PHP7.0 以上版本报错](https://learnku.com/articles/26675)|20年老專案，又不好整套換掉，只好出此奇招|PHP Library|
 |[10分鐘信箱](https://10minutemail.net/?lang=zh-tw)|免洗信箱|工具|
+|[UTF-8 encoder/decoder](https://mothereff.in/utf-8)|\x48\x65\x6C\x6C\x6F UTF-8 轉碼|工具|
 
 ### 曾使用的功能速查
 ||||||
