@@ -12,3 +12,4 @@
 |標題|分類|
 |---|---|
 |[《三生三世十里桃花》小提琴独奏 凉凉 #ViolinMISA#](https://www.youtube.com/watch?v=f4B2w8sBlAs)||
+|[艾辰《錯位時空》小提琴版本 Violin【Cover by An】](https://www.youtube.com/watch?v=tftvny1OvoE)||
