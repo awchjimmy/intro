@@ -37,6 +37,7 @@
 
 ### 其他經歷
 1. 程式家教 - 大學生 Java / Python / Arduino / Matlab 程式設計
+2. 可以改 20 年前的 code, 舉例 `main.php` 裡面有 20000 行程式
 
 ### 聯繫方式
 * Email：awchjimmy@gmail.com
