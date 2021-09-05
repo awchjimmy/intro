@@ -11,9 +11,11 @@
 ### Violin 純欣賞
 |標題|分類|
 |---|---|
-|[《三生三世十里桃花》小提琴独奏 凉凉 #ViolinMISA#](https://www.youtube.com/watch?v=f4B2w8sBlAs)||
-|[艾辰《錯位時空》小提琴版本 Violin【Cover by An】](https://www.youtube.com/watch?v=tftvny1OvoE)||
+|[Jerusalem of Gold / Yerushalayim Shel Zahav - André Rieu, Tel Aviv, Israel 2018](https://www.youtube.com/watch?v=Im5lh2kJWTI)|以色列|
 |[Because He Lives 살아 계신주 - Jennifer Jeon 제니퍼 전(영은)](https://www.youtube.com/watch?v=wvWyc1CnZYA)||
+|[《三生三世十里桃花》小提琴独奏 凉凉 #ViolinMISA#](https://www.youtube.com/watch?v=f4B2w8sBlAs)|中國風|
+|[艾辰《錯位時空》小提琴版本 Violin【Cover by An】](https://www.youtube.com/watch?v=tftvny1OvoE)||
+
 
 ### 未分類
 * 如何聽寫 / 抓和弦 / 創作
