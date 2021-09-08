@@ -37,3 +37,10 @@
 3. 短線 還是 中長線
 4. Maximum Loss 是多少？ Risk Reward Ratio 是多少？
 5. Cut Loss / Take Profit 多少？為什麼？
+
+---
+
+### Youtuber
+* Anson Tan [The Tradveller 作手过客]
+* 提阿非羅大人
+* Lester路肖南
