@@ -38,6 +38,13 @@
 4. Maximum Loss 是多少？ Risk Reward Ratio 是多少？
 5. Cut Loss / Take Profit 多少？為什麼？
 
+### 資金分配
+* 40% 做多 BTC
+* 30% 空閒資金
+* 20% 對沖
+* 5% 山寨幣 1
+* 5% 山寨幣 2
+
 ---
 
 ### Youtuber
