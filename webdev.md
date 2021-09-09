@@ -15,12 +15,14 @@
   - ssh
   - Filezilla FTP
   - git (Github / Gitlab)
+  - apache
 - 系統
   - Ubuntu
 
 
 ### 工程師，怎麼進步？
 - 如何快速定位 bug
+  - 判斷是前端還是後端的bug、思考邏輯、SOP
   - F12
   - `print_r` 
   - apache error log
@@ -30,6 +32,8 @@
   - 檔案間來回瀏覽、模糊搜尋
 - 熟悉框架
   - Bootstrap 4
+- 版本差異
+  - PHP5 vs PHP7
 ---
 
 ### 技術類
