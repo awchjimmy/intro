@@ -1,9 +1,12 @@
 # Web Dev
 
-### 技能樹
+### 準工程師，準備什麼？
 - 大學基礎
+  - Procedural Programming
+  - 物件導向
+  - MVC 架構
 - 網頁工程師
-  - HTML / CSS /Javascript & JQuery
+  - HTML / CSS & Bootstrap /Javascript & JQuery
   - JS 三大框架 (Vue.js / Angular)
   - MySQL
   - PHP
@@ -14,6 +17,20 @@
   - git (Github / Gitlab)
 - 系統
   - Ubuntu
+
+
+### 工程師，怎麼進步？
+- 如何快速定位 bug
+  - F12
+  - `print_r` 
+  - apache error log
+- 熟悉編輯器
+  - 搜尋與取代、正規表達式
+  - Compare Tools
+  - 檔案間來回瀏覽、模糊搜尋
+- 熟悉框架
+  - Bootstrap 4
+---
 
 ### 技術類
 |標題|說明|分類
