@@ -6,10 +6,12 @@
   - HTML / CSS /Javascript & JQuery
   - JS 三大框架 (Vue.js / Angular)
   - MySQL
+  - PHP
 - 工具
   - Notepad++ / VSCode
   - ssh
   - Filezilla FTP
+  - git (Github / Gitlab)
 - 系統
   - Ubuntu
 
