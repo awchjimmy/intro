@@ -1,5 +1,18 @@
 # Web Dev
 
+### 技能樹
+- 大學基礎
+- 網頁工程師
+  - HTML / CSS /Javascript & JQuery
+  - JS 三大框架 (Vue.js / Angular)
+  - MySQL
+- 工具
+  - Notepad++ / VSCode
+  - ssh
+  - Filezilla FTP
+- 系統
+  - Ubuntu
+
 ### 技術類
 |標題|說明|分類
 |---|---|---|
