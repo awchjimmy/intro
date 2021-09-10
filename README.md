@@ -64,6 +64,7 @@
 |[【越哥】80分钟看完《我们与恶的距离》全集：近十年最好的台剧，每个人都身处其中！](https://www.youtube.com/watch?v=N9rrLU66298)||
 |[Jerusalem of Gold / Yerushalayim Shel Zahav - André Rieu, Tel Aviv, Israel 2018](https://www.youtube.com/watch?v=Im5lh2kJWTI)||
 |[媽咪，我不小心懷孕了。【手癢計劃】](https://www.youtube.com/watch?v=2sqqQ0kSICA)||
+|[放下醫學系的包袱不容易 - 我們私下聊](https://www.youtube.com/watch?v=jIa0OsCuw6s)||
 
 #### 沒想過可以這樣
 |Title|Note|
