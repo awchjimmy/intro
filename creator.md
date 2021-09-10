@@ -16,6 +16,10 @@
 |[《三生三世十里桃花》小提琴独奏 凉凉 #ViolinMISA#](https://www.youtube.com/watch?v=f4B2w8sBlAs)|中國風|
 |[艾辰《錯位時空》小提琴版本 Violin【Cover by An】](https://www.youtube.com/watch?v=tftvny1OvoE)||
 
+### 素材庫
+|素材庫|搭配作品參考|
+|---|---|
+|[Unsplash](https://unsplash.com/)|[Maplestory BGM 33 song Piano Compilation](https://www.youtube.com/watch?v=-FMHYjqC4iA)|
 
 ### 未分類
 * 如何聽寫 / 抓和弦 / 創作
