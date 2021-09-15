@@ -20,6 +20,7 @@
 |Title|Note|Category|
 |---|---|---|
 |[「ZERO2ONE」TheTradveller作手過客-Day1 (會員專屬)](https://www.youtube.com/watch?v=MBb2sjghV88&list=PLZEL7BLnwbFVYtVV2ggWM3IBB0o5MnWh6&index=7)|1. 設定錢包<br>2. 買幣賣幣<br>3. DL Strategy|Trading|
+|[【比特幣分析】MSTR又買了5,050比特幣？！ 技術永無止境，策略才是王道](https://www.youtube.com/watch?v=Q0ko3pp0XKE)|Mindset Sharing 總結近期發生的大小事|Trading|
 |[如果90%的虛擬貨幣投資者都是虧錢的。。那要怎样成为那10%？合約交易 槓桿交易比特幣的避忌！看清交易的本質！](https://www.youtube.com/watch?v=VLkmmzB3tHY)|要常常拿出來複習|Trading|
 |[【Trader辛酸5+1】如果你不能承受這些，勸你還是別做“全職Full-time Trader”的夢了。。](https://www.youtube.com/watch?v=Kjf1TIZ25_k)|1. 必經過程<br>2. 做莊|Trading|
 |[Trading输钱想死? 每次输钱心情不好? 觉得输钱不甘心? 当输钱怎么办??](https://www.youtube.com/watch?v=9dtvwUzyl9g)|1. 事前預備<br>2. 獨立思考<br>3. 找到適合自己的策略|Trading|
