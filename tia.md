@@ -3,8 +3,9 @@
 
 |標題|發布日期|筆記|
 |---|---|---|
+|[美股暴跌，比特幣卻跌不下去！四萬強支撐？](https://www.youtube.com/watch?v=lmlxbdU5E2w)|2021.09.29|1. 支撐/阻力線轉換<br>2. 盤整做短線|
 |[輸家到贏家的第一步？優秀的交易者最不可少的是？本人最重要的一期！](https://www.youtube.com/watch?v=OnEZpExmwXE)|2021.09.28|1. 先相信後看見|
-|[SLP，现在还能买吗？什么价位入场比较合适？Small Love Potion，纯技术面分析](https://www.youtube.com/watch?v=tEG1Nhw0o0E)|2021.05.01|1. 左側交易/右側交易|
+|[SLP，现在还能买吗？什么价位入场比较合适？](https://www.youtube.com/watch?v=tEG1Nhw0o0E)|2021.05.01|1. 左側交易/右側交易|
 |[DOGE不要急着解套！现在卖掉狗狗币，你绝对会后悔！](https://www.youtube.com/watch?v=nvIqdfzET8w)|2021.05.01|1. 長期盤整 突破加倉|
 |[紧急！CAKE 高位危险！为什么我要马上卖出？追高有风险，购买前，你必须要听的分析！](https://www.youtube.com/watch?v=JTIxZt2aS4k)|2021.04.28|1. 一樣的原則逃頂|
 |[SOL，你成功逃顶了吗？Solana复盘，以及我的逃顶原则，保护你的胜利果实！](https://www.youtube.com/watch?v=eKjsd_VJI-s)|2021.04.28|1. `2B型態`|
@@ -14,3 +15,5 @@
 ### FAQ
 1. 為何合約要在突破前高點才加倉，如果在盤整(更低價格)加倉不是更划算嗎？  
 [Doge狗狗币，还能买吗？我的策略，让你赚十倍！](https://www.youtube.com/watch?v=20p4QjZG6iw)
+2. 在盤整的行情裡面，怎麼找短線機會？  
+[美股暴跌，比特幣卻跌不下去！四萬強支撐？](https://www.youtube.com/watch?v=lmlxbdU5E2w)
