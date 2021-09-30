@@ -5,6 +5,7 @@
 |---|---|---|
 |[美股暴跌，比特幣卻跌不下去！四萬強支撐？](https://www.youtube.com/watch?v=lmlxbdU5E2w)|2021.09.29|1. 支撐/阻力線轉換<br>2. 盤整做短線|
 |[輸家到贏家的第一步？優秀的交易者最不可少的是？本人最重要的一期！](https://www.youtube.com/watch?v=OnEZpExmwXE)|2021.09.28|1. 先相信後看見|
+|[SLP复盘，昨天正确预测了最佳买点，今天来看最佳卖点](https://www.youtube.com/watch?v=xb95nu7HDG0)|2021.05.02|1. `解套/沒得賣/拉升` 週期|
 |[今天可购入的几个币，HT、NANO、GRT](https://www.youtube.com/watch?v=4WSGGPJWYaI)|2021.05.02|1. 突破下降趨勢線|
 |[SLP，现在还能买吗？什么价位入场比较合适？](https://www.youtube.com/watch?v=tEG1Nhw0o0E)|2021.05.01|1. 左側交易/右側交易|
 |[DOGE不要急着解套！现在卖掉狗狗币，你绝对会后悔！](https://www.youtube.com/watch?v=nvIqdfzET8w)|2021.05.01|1. 長期盤整 突破加倉|
