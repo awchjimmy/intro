@@ -5,6 +5,7 @@
 |---|---|---|
 |[美股暴跌，比特幣卻跌不下去！四萬強支撐？](https://www.youtube.com/watch?v=lmlxbdU5E2w)|2021.09.29|1. 支撐/阻力線轉換<br>2. 盤整做短線|
 |[輸家到贏家的第一步？優秀的交易者最不可少的是？本人最重要的一期！](https://www.youtube.com/watch?v=OnEZpExmwXE)|2021.09.28|1. 先相信後看見|
+|[狗狗币的超规律形态！K线里有所有秘密，帮你找到最佳卖出点，让你的盈利最大化，逃顶抛狗最佳位置！](https://www.youtube.com/watch?v=2qghLiygh7g)|2021.05.02|1. 完整演示近期思路|
 |[SLP复盘，昨天正确预测了最佳买点，今天来看最佳卖点](https://www.youtube.com/watch?v=xb95nu7HDG0)|2021.05.02|1. `解套/沒得賣/拉升` 週期|
 |[今天可购入的几个币，HT、NANO、GRT](https://www.youtube.com/watch?v=4WSGGPJWYaI)|2021.05.02|1. 突破下降趨勢線|
 |[SLP，现在还能买吗？什么价位入场比较合适？](https://www.youtube.com/watch?v=tEG1Nhw0o0E)|2021.05.01|1. 左側交易/右側交易|
@@ -19,3 +20,5 @@
 [Doge狗狗币，还能买吗？我的策略，让你赚十倍！](https://www.youtube.com/watch?v=20p4QjZG6iw)
 2. 在盤整的行情裡面，怎麼找短線機會？  
 [美股暴跌，比特幣卻跌不下去！四萬強支撐？](https://www.youtube.com/watch?v=lmlxbdU5E2w)
+3. 小幣怎麼逃頂？  
+[狗狗币的超规律形态！K线里有所有秘密，帮你找到最佳卖出点，让你的盈利最大化，逃顶抛狗最佳位置！](https://www.youtube.com/watch?v=2qghLiygh7g)
