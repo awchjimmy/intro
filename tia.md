@@ -3,8 +3,8 @@
 
 |標題|發布日期|筆記|
 |---|---|---|
-|[十月，比特幣漲到6萬3？鏈上分析，技術分析，都指向這個方向……](https://www.youtube.com/watch?v=Ee3h4hZl3Mg)|2021.10.01|1. 鏈上數據 PlanB|
-|[比特幣突破還是跌破？事情明晰了起來！保持耐心，靜待這次機會！](https://www.youtube.com/watch?v=2PX9tD0yv78)|2021.09.30|1. 突破做多、跌破做空、中間等待！|
+|[十月，比特幣漲到6萬3？鏈上分析，技術分析，都指向這個方向……](https://www.youtube.com/watch?v=Ee3h4hZl3Mg)|2021.10.01|1. 鏈上數據 PlanB<br>2. 布局買山寨幣|
+|[比特幣突破還是跌破？事情明晰了起來！保持耐心，靜待這次機會！](https://www.youtube.com/watch?v=2PX9tD0yv78)|2021.09.30|1. 右側交易要等型態確定走出來才做<br>2. 突破做多、跌破做空、中間等待！|
 |[美股暴跌，比特幣卻跌不下去！四萬強支撐？](https://www.youtube.com/watch?v=lmlxbdU5E2w)|2021.09.29|1. 支撐/阻力線轉換<br>2. 盤整做短線|
 |[輸家到贏家的第一步？優秀的交易者最不可少的是？本人最重要的一期！](https://www.youtube.com/watch?v=OnEZpExmwXE)|2021.09.28|1. 先相信後看見|
 |[狗狗币的超规律形态！K线里有所有秘密，帮你找到最佳卖出点，让你的盈利最大化，逃顶抛狗最佳位置！](https://www.youtube.com/watch?v=2qghLiygh7g)|2021.05.02|1. 完整演示近期思路|
@@ -24,3 +24,5 @@
 [美股暴跌，比特幣卻跌不下去！四萬強支撐？](https://www.youtube.com/watch?v=lmlxbdU5E2w)
 3. 小幣怎麼逃頂？  
 [狗狗币的超规律形态！K线里有所有秘密，帮你找到最佳卖出点，让你的盈利最大化，逃顶抛狗最佳位置！](https://www.youtube.com/watch?v=2qghLiygh7g)
+4. M頂型態跟W底型態怎麼判斷？ (右側交易)  
+[比特幣突破還是跌破？事情明晰了起來！保持耐心，靜待這次機會！](https://www.youtube.com/watch?v=2PX9tD0yv78)
