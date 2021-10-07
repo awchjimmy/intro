@@ -21,6 +21,7 @@
 
 ### 盜版
 * 2020.11 [「楓林網」5年狂撈7千萬　2碩士生認罪下場慘了](https://news.tvbs.com.tw/local/1414095)
+* 2014.08 [楓之谷007網站 遭掃蕩法辦](https://tw.news.yahoo.com/%E6%A5%93%E4%B9%8B%E8%B0%B7007%E7%B6%B2%E7%AB%99-%E9%81%AD%E6%8E%83%E8%95%A9%E6%B3%95%E8%BE%A6-215046345--finance.html)
 * 2012.06 [「FDZone」無限討論區侵權遭舉發　站長在澳門被逮捕](https://www.ettoday.net/news/20120608/55426.htm)
 
 ### 其他
