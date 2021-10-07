@@ -18,6 +18,7 @@
 ### 毒品
 * 2021.10 [查獲犯罪集團首腦! 罪犯巢穴宛如一座兵工廠](https://tw.news.yahoo.com/%E6%9F%A5%E7%8D%B2%E7%8A%AF%E7%BD%AA%E9%9B%86%E5%9C%98%E9%A6%96%E8%85%A6-%E7%BD%AA%E7%8A%AF%E5%B7%A2%E7%A9%B4%E5%AE%9B%E5%A6%82-%E5%BA%A7%E5%85%B5%E5%B7%A5%E5%BB%A0-092759793.html)
 * 2021.09 [Toyz販毒面對10年以上重刑 服刑後會被驅逐出境](https://udn.com/news/story/122482/5782932)
+* 2021.06 [毒販界大獲好評的App竟是魚餌！FBI聯手開發商「釣魚」，如何一網打盡逮捕800多人？](https://www.bnext.com.tw/article/63294/operation-trojan-shield-europol)
 
 ### 盜版
 * 2020.11 [「楓林網」5年狂撈7千萬　2碩士生認罪下場慘了](https://news.tvbs.com.tw/local/1414095)
