@@ -3,6 +3,7 @@
 
 ### 賭博
 * 2019.12 [賭盤介入大選？ 檢警追異常賠率](https://news.ltn.com.tw/news/politics/paper/1339198)
+* 2019.12 [陸資涉選舉賭盤 警抄台中嘉義兩處簽賭站](https://tw.news.yahoo.com/%E9%99%B8%E8%B3%87%E6%B6%89%E9%81%B8%E8%88%89%E8%B3%AD%E7%9B%A4-%E8%AD%A6%E6%8A%84%E5%8F%B0%E4%B8%AD%E5%98%89%E7%BE%A9%E5%85%A9%E8%99%95%E7%B0%BD%E8%B3%AD%E7%AB%99-055126911.html)
 
 ### 洗錢
 * 2021.09 [台中破獲洗錢集團 半年幫賭博網站洗錢15億元](https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E7%A0%B4%E7%8D%B2%E6%B4%97%E9%8C%A2%E9%9B%86%E5%9C%98-%E5%8D%8A%E5%B9%B4%E5%B9%AB%E8%B3%AD%E5%8D%9A%E7%B6%B2%E7%AB%99%E6%B4%97%E9%8C%A215%E5%84%84%E5%85%83-085115008.html)
