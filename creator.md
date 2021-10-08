@@ -7,6 +7,7 @@
 |---|---|---|
 |Christoffer Moe Ditlevsen|When a Plan Comes Together|實境秀，搞笑、反派角色<br><br>什麼？你說你偷吃？！<br>虛~ 小聲一點啦...|
 |Howard Harper-Barnes|Micro Evolution|縮時攝影、在大都市生活的一天<br><br>趕公車、趕捷運、等紅綠燈<br>阿午休了短暫休息<br>下午繼續忙忙忙|
+|Ludovico Einaudi|[Ludovico Einaudi - Divenire (Visualiser)](https://www.youtube.com/watch?v=VAPapYhDSUc)|
 
 ### Violin 純欣賞
 |標題|分類|
