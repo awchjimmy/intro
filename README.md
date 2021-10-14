@@ -40,6 +40,7 @@
 #### 價值觀類
 |Title|Note|Category|
 |---|---|---|
+|[二十分鐘后，你將開始成爲有錢人 老高與小茉 Mr & Mrs Gao](https://www.youtube.com/watch?v=_IMww7gwIus)|第一課換腦袋|價值觀|
 |[學校永遠不會教你的知識，錢是什麽 老高與小茉 Mr & Mrs Gao](https://www.youtube.com/watch?v=9XQ0L62o-zQ)|錢的本質是信用|價值觀|
 |[Grant Cardone格蘭特·卡多恩-62歲 3億美元房產大亨 盡然在2020年4月 破產了？？！“我看到了什麼？？”](https://www.youtube.com/watch?v=nSnPwOlu1cY)|1. 擺脫負面<br>2. 沒有所謂好時機、準備好，只管開始，不斷修正|價值觀|
 |[Power of Consciousness意識覺醒！-"5 PRACTICAL Steps to Escape from Broke!!" 5招 脫離貧窮！](https://www.youtube.com/watch?v=j-KDTxpSfCw)|怎麼進步|價值觀|
