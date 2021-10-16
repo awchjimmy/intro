@@ -2,6 +2,7 @@
 你沒看到 不等於沒有在發生
 
 ### 賭博
+* 2021.10 [年輕夫妻檔經營線上博弈 短短5個月撈上千萬元](https://www.msn.com/zh-tw/news/national/%e5%b9%b4%e8%bc%95%e5%a4%ab%e5%a6%bb%e6%aa%94%e7%b6%93%e7%87%9f%e7%b7%9a%e4%b8%8a%e5%8d%9a%e5%bc%88-%e7%9f%ad%e7%9f%ad5%e5%80%8b%e6%9c%88%e6%92%88%e4%b8%8a%e5%8d%83%e8%90%ac%e5%85%83/ar-AAPyZLt?ocid=msedgntp#image=AAPyZLt_1|3)
 * 2019.12 [賭盤介入大選？ 檢警追異常賠率](https://news.ltn.com.tw/news/politics/paper/1339198)
 * 2019.12 [陸資涉選舉賭盤 警抄台中嘉義兩處簽賭站](https://tw.news.yahoo.com/%E9%99%B8%E8%B3%87%E6%B6%89%E9%81%B8%E8%88%89%E8%B3%AD%E7%9B%A4-%E8%AD%A6%E6%8A%84%E5%8F%B0%E4%B8%AD%E5%98%89%E7%BE%A9%E5%85%A9%E8%99%95%E7%B0%BD%E8%B3%AD%E7%AB%99-055126911.html)
 
