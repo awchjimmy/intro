@@ -65,7 +65,7 @@
 ||||||
 |---|---|---|---|---|
 |[輪播 owlCaroursel2]()|[文稿編輯器 CKEditor]()|[顏色選擇 pickr]()|[匯出Excel PHPExcel]()|[發電子郵件 PHPMailer]()|
-|[浮水印 PHP]()|[進站文字特效 WOW.js]()||||
+|[浮水印 PHP]()|[進站文字特效 WOW.js]()|[身分證字號驗證 JS](http://www.cs.nccu.edu.tw/~lien/BCC/HTML/Js1/checkid.htm)|||
 
 ### 準工程師 (學生、轉職)
 |標題|說明|
