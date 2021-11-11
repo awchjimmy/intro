@@ -60,6 +60,7 @@
 |[PHPExcel 在 PHP7.0 以上版本报错](https://learnku.com/articles/26675)|20年老專案，又不好整套換掉，只好出此奇招|PHP Library|
 |[10分鐘信箱](https://10minutemail.net/?lang=zh-tw)|免洗信箱|工具|
 |[UTF-8 encoder/decoder](https://mothereff.in/utf-8)|\x48\x65\x6C\x6C\x6F UTF-8 轉碼|工具|
+|[Email 客戶端之 CSS 支援問題](https://blog.darkthread.net/blog/email-client-css-support/)|Email CSS不支援問題|Email|
 
 ### 曾使用的功能速查
 ||||||
