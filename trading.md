@@ -48,6 +48,7 @@
 
 ### 幾個技術分析以外的指標
 * [恐慌指數](https://alternative.me/crypto/fear-and-greed-index/)
+* [Open Interest 未平倉合約](https://www.coinglass.com/zh-TW)
 * [Google 熱搜排行](https://trends.google.com.tw/trends/explore?q=doge)
 * [Top 100 Richest Addresses](https://bitinfocharts.com/top-100-richest-dogecoin-addresses.html)
 
