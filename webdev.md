@@ -93,12 +93,6 @@
 |[疫情讓人們意識到人生只有一次、要為自己而活，YOLO風席捲歐美，亞洲也會同樣嗎？！](https://www.youtube.com/watch?v=5bT8qZA98ls)|工作再忙也要想這個問題|
 |[[討論] 自身能力不足是會選擇自己離職還是撐下去](https://moptt.tw/p/Salary.M.1628194500.A.07A)||
 
-### 台中精選職缺
-|職缺內容|薪資|最後更新
-|---|---|---|
-|[鼎新電腦-前端工程師(台中)](https://www.104.com.tw/job/5fgc6?jobsource=2018indexpoc)|35K+|2021.08|
-|[威德數位設計-PHP 程式設計師(台中)](https://www.104.com.tw/job/4fbwd?jobsource=cs_2018indexpoc)|34K+|2021.08|
-
 ### 未命名資料夾
 |標題|作者|
 |---|---|
