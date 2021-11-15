@@ -63,7 +63,7 @@
 |---|---|---|
 |[Bootstrap 4 card deck table-cell columns responsive based on viewport?](https://stackoverflow.com/questions/36487389/bootstrap-4-card-deck-table-cell-columns-responsive-based-on-viewport)|這個才是真正我們需要的 Bootrstrap Card|CSS Grid|
 |[PHPExcel 在 PHP7.0 以上版本报错](https://learnku.com/articles/26675)|20年老專案，又不好整套換掉，只好出此奇招|PHP Library|
-|[Excel export problem in IE](https://stackoverflow.com/questions/6064535/excel-export-problem-in-ie/6065779#6065779)|IE 在 SSL 底下的 Cache 機制|PHP Library|
+|[Excel export problem in IE](https://stackoverflow.com/questions/6064535/excel-export-problem-in-ie/6065779#6065779)<br>[PHPExcel output to browser doesn't work in IE](https://stackoverflow.com/questions/12174887/phpexcel-output-to-browser-doesnt-work-in-ie)|IE 在 SSL 底下的 Cache 機制|PHP Library|
 |[Email 客戶端之 CSS 支援問題](https://blog.darkthread.net/blog/email-client-css-support/)|Email CSS不支援問題|Email|
 
 ### 曾使用的功能速查
