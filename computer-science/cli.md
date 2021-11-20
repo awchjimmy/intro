@@ -35,3 +35,8 @@ tar zxvf filename.tar.gz
 ```sh
 wget example.com
 ```
+
+### su 切換使用者
+```sh
+su - username
+```
