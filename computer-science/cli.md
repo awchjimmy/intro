@@ -40,3 +40,22 @@ wget example.com
 ```sh
 su - username
 ```
+
+### ifconfig - 網路狀態
+```sh
+ifconfig
+```
+
+### tail - 查看 log
+```sh
+head readme.txt
+```
+
+```sh
+tail -f /var/log/apache2/error.log
+```
+
+### less - 看檔案
+```sh
+ifconfig | less
+```
