@@ -8,8 +8,8 @@
 #### Flexbox
 另一種排版方式，很多千奇百怪的排版難以解決，  
 或許只是因為你沒有學過 `Flexbox`。
-##### Flexbox Froggy
-https://flexboxfroggy.com/ - 過關就學會 flexbox 了。
+- [Flexbox Froggy](https://flexboxfroggy.com/) - 過關就學會 `Flexbox` 了。
+
 
 
 
