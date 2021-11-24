@@ -27,7 +27,9 @@
 * 2014.08 [楓之谷007網站 遭掃蕩法辦](https://tw.news.yahoo.com/%E6%A5%93%E4%B9%8B%E8%B0%B7007%E7%B6%B2%E7%AB%99-%E9%81%AD%E6%8E%83%E8%95%A9%E6%B3%95%E8%BE%A6-215046345--finance.html)
 * 2012.06 [「FDZone」無限討論區侵權遭舉發　站長在澳門被逮捕](https://www.ettoday.net/news/20120608/55426.htm)
 
+### 高利貸
+* 2021.11 [借2萬利息4千還不出！女遭強押雞場活埋](https://www.msn.com/zh-tw/news/national/%E5%80%9F2%E8%90%AC%E5%88%A9%E6%81%AF4%E5%8D%83%E9%82%84%E4%B8%8D%E5%87%BA-%E5%A5%B3%E9%81%AD%E5%BC%B7%E6%8A%BC%E9%9B%9E%E5%A0%B4%E6%B4%BB%E5%9F%8B/ar-AAR4Sv4?ocid=msedgntp)
+
 ### 其他
-* 高利貸
 * 龐氏騙局
 * 電商詐騙
