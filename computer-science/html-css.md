@@ -10,9 +10,6 @@
 或許只是因為你沒有學過 `Flexbox`。
 - [Flexbox Froggy](https://flexboxfroggy.com/) - 過關就學會 `Flexbox` 了。
 
-
-
-
 ## JS
 ### Libraries
 #### jQuery
@@ -22,3 +19,20 @@
 #### CKEditor
 WYSIWYG 編輯器，可以用 config 來客製化，  
 唯二選擇，另一套是 `tinyMCE`。
+
+## PHP
+
+### Debug
+#### echo
+最古老最有效，印出來看
+```php
+echo "<pre>" . print_r($var_name, true) . "</pre>";
+```
+#### error_log
+### Libraries
+#### PHPExcel, PhpSpreadsheet
+PHP 讀取/寫入 Excel, xls, csv, ...
+#### fpdf
+PHP 輸出 PDF
+#### PHPMailer
+PHP 寄信
