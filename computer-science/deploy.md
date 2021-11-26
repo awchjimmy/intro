@@ -27,3 +27,11 @@ php -v
 
 # 7.4.3
 ```
+
+### MySQL / MariaDB
+#### mysql -V 看版本
+```sh
+mysql -V
+
+# MariaDB-10.6.4
+```
