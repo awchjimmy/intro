@@ -7,6 +7,7 @@
 * 2019.12 [陸資涉選舉賭盤 警抄台中嘉義兩處簽賭站](https://tw.news.yahoo.com/%E9%99%B8%E8%B3%87%E6%B6%89%E9%81%B8%E8%88%89%E8%B3%AD%E7%9B%A4-%E8%AD%A6%E6%8A%84%E5%8F%B0%E4%B8%AD%E5%98%89%E7%BE%A9%E5%85%A9%E8%99%95%E7%B0%BD%E8%B3%AD%E7%AB%99-055126911.html)
 
 ### 洗錢
+* 2021.11 [半年洗錢23億 水房受瑪莎拉蒂惡煞牽連13人落網](https://www.epochtimes.com/b5/21/11/25/n13398144.htm?fbclid=IwAR1OnrqcrcI8qmQbCbvnGZWsyMm91TZUP6SWrnvtJpU5VuGmGRgHyfBl_44)
 * 2021.09 [台中破獲洗錢集團 半年幫賭博網站洗錢15億元](https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E7%A0%B4%E7%8D%B2%E6%B4%97%E9%8C%A2%E9%9B%86%E5%9C%98-%E5%8D%8A%E5%B9%B4%E5%B9%AB%E8%B3%AD%E5%8D%9A%E7%B6%B2%E7%AB%99%E6%B4%97%E9%8C%A215%E5%84%84%E5%85%83-085115008.html)
 * 2020.08 [超大台灣地下匯兌中心 7個月替中國賭博網站洗錢逾52億](https://news.ltn.com.tw/news/society/breakingnews/3256783)
 * 2020.08 [台中檢警查賭博及洗錢組織 幕後金主疑某國際控股集團總裁](https://news.ltn.com.tw/news/society/breakingnews/3263091)
