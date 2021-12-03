@@ -26,7 +26,8 @@
 ---
 
 ### 一定要學會的幾個觀念
-* Risk Reward Ratio / Margin
+* Risk Reward Ratio
+* Margin
 * Stop Loss / Take Profit / Safety Pin
 * SNR / EMA
 * MACD / Bullish Divergence & Bearish Divergence
