@@ -1,7 +1,7 @@
 # Balance Sheet
 
-### Spot
+### Derivatives
 
 |Name|Amount|~USD|Last Update|
 |---|---|---|---|
-|BIT|48.83|111|2021.12|
+|BIT|350||2021.12|
