@@ -59,3 +59,8 @@ tail -f /var/log/apache2/error.log
 ```sh
 ifconfig | less
 ```
+
+### grep - 搜尋內容
+```sh
+grep "search_term" *.php
+```
