@@ -1,5 +1,10 @@
 # 直播技術
 
+### 視訊會議 vs 直播
+
+#### 為什麼人數限制 5-20 人？
+[NextCloud Talk 視訊會議原理與如何擴充](https://github.com/nextcloud/spreed#scalability)
+
 ### 身分認證
 
 #### 列需求
