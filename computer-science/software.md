@@ -4,8 +4,6 @@
 
 ## Windows
 
-- [WinFsp + SSHFS-Win]() - Windows 上掛載自訂的檔案系統，例如 SFTP as local disk。
-
 ## Linux
 
 ## OSX
