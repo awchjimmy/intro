@@ -32,7 +32,11 @@
 ### Generate Music Online
 - [CHRD](https://chrds.app/)
 
-1234567 彈和弦
+1234567 彈和弦。
+
+- [Chord Player](https://www.onemotion.com/chord-player/)
+
+選和弦，選風格，選節奏。
 
 ### 未分類
 * 如何聽寫 / 抓和弦 / 創作
