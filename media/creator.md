@@ -29,6 +29,11 @@
 * [广场鬼步舞《回头看看我》歌好听舞好看，想学跳就跟着练](https://www.youtube.com/watch?v=Q6o7wvA7SUY)
 * [四川成都13个男子跳广场，把广场舞跳得女人都嫉妒，大吃了一惊](https://www.youtube.com/watch?v=msb9IZ_Lb64)
 
+### Generate Music Online
+- [CHRD](https://chrds.app/)
+
+1234567 彈和弦
+
 ### 未分類
 * 如何聽寫 / 抓和弦 / 創作
 * 如何去人聲 / 上卡拉OK字幕
