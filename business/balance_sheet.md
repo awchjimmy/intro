@@ -5,6 +5,7 @@
 |Name|Amount|~USD|Last Update|
 |---|---|---|---|
 |DOGE|1103.4||2021.12|
+|USDT|183||2021.12|
 
 ### Derivatives
 
