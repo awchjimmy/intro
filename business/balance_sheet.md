@@ -4,7 +4,7 @@
 
 |Name|Amount|~USD|Last Update|
 |---|---|---|---|
-|DOGE|2193.9||2021.12|
+|DOGE|2404.5||2021.12|
 
 
 ### Derivatives
