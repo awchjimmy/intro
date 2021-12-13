@@ -24,6 +24,9 @@
 ### 工具箱
 - [10分鐘信箱](https://10minutemail.net/?lang=zh-tw) - 免洗信箱
 
+### 文件
+- [Markdown](https://daringfireball.net/projects/markdown/syntax) - 做筆記，另外參考 `Github Flavored Markdown`、`Gitlab Flavored Markdown`。
+
 ### 工程師，怎麼進步？
 - 如何快速定位 bug
   - 判斷是前端還是後端的bug、思考邏輯、SOP
