@@ -16,6 +16,7 @@
 - [PHPMailer](https://github.com/PHPMailer/PHPMailer) - 發電子郵件 / [展示-台大新竹-醫療諮詢信箱](https://www.hch.gov.tw/?aid=608)
 - [CKEditor4](https://ckeditor.com/ckeditor-4/) - 文稿編輯器
 - [PHPSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) - 匯出Excel / [PHPExcel (ARCHIVED)](https://github.com/PHPOffice/PHPExcel)
+- `<input type="color">` - 顏色選擇 / [pickr](https://simonwep.github.io/pickr/) - 顏色選擇
 
 ### 技術問題該怎麼解決
 - [Shotgun surgery](https://en.wikipedia.org/wiki/Shotgun_surgery)
@@ -76,7 +77,7 @@
 ### 曾使用的功能速查
 ||||||
 |---|---|---|---|---|
-|||[顏色選擇 pickr]()|||
+||||||
 |[浮水印 PHP]()|[進站文字特效 WOW.js]()|[身分證字號驗證 JS](http://www.cs.nccu.edu.tw/~lien/BCC/HTML/Js1/checkid.htm)|[Programmable Search Engine](https://programmablesearchengine.google.com/about/)||
 
 ### 準工程師 (學生、轉職)
