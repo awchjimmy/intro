@@ -21,11 +21,6 @@
 |[PHPSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) / [PHPExcel (ARCHIVED)](https://github.com/PHPOffice/PHPExcel)|匯出Excel
 |`<input type="color">` / [pickr](https://simonwep.github.io/pickr/)|顏色選擇
 
-### 技術問題該怎麼解決
-- [Shotgun surgery](https://en.wikipedia.org/wiki/Shotgun_surgery)
-
-類似的需求，複製貼上到很多地方；如果需求一改變，要整個codebase搜尋與取代。
-
 ### 工具箱
 - [10分鐘信箱](https://10minutemail.net/?lang=zh-tw) - 免洗信箱
 - [Adminer](https://www.adminer.org/) - 資料庫管理工具
@@ -45,6 +40,11 @@
   - 如何跟主管評估時間
   - 如何跟同事問問題
   - 如何跟同事分工
+
+### 設計模式
+- [Shotgun surgery](https://en.wikipedia.org/wiki/Shotgun_surgery)
+
+類似的需求，複製貼上到很多地方；如果需求一改變，要整個codebase搜尋與取代。
 
 ### 工程師，怎麼進步？
 
