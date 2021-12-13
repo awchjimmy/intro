@@ -16,7 +16,7 @@
 |[owlCaroursel2](https://owlcarousel2.github.io/OwlCarousel2/)|輪播
 |[Url to QRCode (Google)](https://developers.google.com/chart/infographics/docs/qr_codes?hl=en)|二維碼|[中興昆蟲-FB粉絲專頁](http://www.entomol.nchu.edu.tw/)|
 |[Programmable Search Engine (Google)](https://programmablesearchengine.google.com/about/)|自訂搜尋|[台大雲林-Google搜尋](https://www.ylh.gov.tw/?aid=110&pid=11)
-|[PHPMailer](https://github.com/PHPMailer/PHPMailer)|發電子郵件|[台大新竹-醫療諮詢信箱](https://www.hch.gov.tw/?aid=608)
+|[PHPMailer](https://github.com/PHPMailer/PHPMailer)|發電子郵件|[台大新竹-醫療諮詢信箱](https://www.hch.gov.tw/?aid=608)|[Email Design Reference (Mailchimp)](https://templates.mailchimp.com/resources/email-client-css-support/)|
 |[CKEditor4](https://ckeditor.com/ckeditor-4/)|文稿編輯器
 |[PHPSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) / [PHPExcel (ARCHIVED)](https://github.com/PHPOffice/PHPExcel)|匯出Excel
 |`<input type="color">` / [pickr](https://simonwep.github.io/pickr/)|顏色選擇
