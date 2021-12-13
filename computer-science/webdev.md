@@ -11,7 +11,16 @@
 
 ### 實際應用
 - [輪播 owlCaroursel2](https://owlcarousel2.github.io/OwlCarousel2/)
-- [二維碼 Url to QRCode](https://developers.google.com/chart/infographics/docs/qr_codes?hl=en) / [範例-中興昆蟲](https://chart.apis.google.com/chart?cht=qr&chs=200x200&chld=L|1&chl=https://www.facebook.com/nchuentomol/)
+- [二維碼 Url to QRCode](https://developers.google.com/chart/infographics/docs/qr_codes?hl=en) / [展示-中興昆蟲-FB粉絲專頁](https://chart.apis.google.com/chart?cht=qr&chs=200x200&chld=L|1&chl=https://www.facebook.com/nchuentomol/)
+- [發電子郵件 PHPMailer](https://github.com/PHPMailer/PHPMailer) / [展示-台大新竹-醫療諮詢信箱](https://www.hch.gov.tw/?aid=608)
+
+### 技術問題該怎麼解決
+- [Shotgun surgery](https://en.wikipedia.org/wiki/Shotgun_surgery)
+
+類似的需求，複製貼上到很多地方；如果需求一改變，要整個codebase搜尋與取代。
+
+### 工具箱
+- [10分鐘信箱](https://10minutemail.net/?lang=zh-tw) - 免洗信箱
 
 ### 工程師，怎麼進步？
 - 如何快速定位 bug
@@ -47,7 +56,6 @@
 |[CSS 垂直置中的三個方法](https://www.oxxostudio.tw/articles/201408/css-vertical-align.html)|如何垂直對齊|CSS|
 |[get radio box value in jquery](https://stackoverflow.com/questions/6614279/get-radio-box-value-in-jquery)|`$("[name='shipping_type']:checked").val()`|JS|
 |[SQL LIKE](https://www.1keydata.com/tw/sql/sqllike.html)<br>[SQL UPDATE](https://www.1keydata.com/tw/sql/sqlupdate.html)<br>[SQL INSERT INTO SELECT](https://www.w3schools.com/SQL/sql_insert_into_select.asp)|基本 SQL|SQL|
-|[10分鐘信箱](https://10minutemail.net/?lang=zh-tw)|免洗信箱|工具|
 |[UTF-8 encoder/decoder](https://mothereff.in/utf-8)|\x48\x65\x6C\x6C\x6F UTF-8 轉碼|工具|
 
 ### 疑難雜症
@@ -62,7 +70,7 @@
 ### 曾使用的功能速查
 ||||||
 |---|---|---|---|---|
-||[文稿編輯器 CKEditor]()|[顏色選擇 pickr]()|[匯出Excel PHPExcel]()|[發電子郵件 PHPMailer]()|
+||[文稿編輯器 CKEditor]()|[顏色選擇 pickr]()|[匯出Excel PHPExcel]()||
 |[浮水印 PHP]()|[進站文字特效 WOW.js]()|[身分證字號驗證 JS](http://www.cs.nccu.edu.tw/~lien/BCC/HTML/Js1/checkid.htm)|[Programmable Search Engine](https://programmablesearchengine.google.com/about/)||
 
 ### 準工程師 (學生、轉職)
