@@ -9,6 +9,10 @@
 - Basic HTML and HTML5
 #### [UVaOJ](https://onlinejudge.org/)
 
+### 實際應用
+- [輪播 owlCaroursel2](https://owlcarousel2.github.io/OwlCarousel2/)
+- [二維碼 Url to QRCode](https://developers.google.com/chart/infographics/docs/qr_codes?hl=en) / [範例-中興昆蟲](https://chart.apis.google.com/chart?cht=qr&chs=200x200&chld=L|1&chl=https://www.facebook.com/nchuentomol/)
+
 ### 工程師，怎麼進步？
 - 如何快速定位 bug
   - 判斷是前端還是後端的bug、思考邏輯、SOP
@@ -58,7 +62,7 @@
 ### 曾使用的功能速查
 ||||||
 |---|---|---|---|---|
-|[輪播 owlCaroursel2]()|[文稿編輯器 CKEditor]()|[顏色選擇 pickr]()|[匯出Excel PHPExcel]()|[發電子郵件 PHPMailer]()|
+||[文稿編輯器 CKEditor]()|[顏色選擇 pickr]()|[匯出Excel PHPExcel]()|[發電子郵件 PHPMailer]()|
 |[浮水印 PHP]()|[進站文字特效 WOW.js]()|[身分證字號驗證 JS](http://www.cs.nccu.edu.tw/~lien/BCC/HTML/Js1/checkid.htm)|[Programmable Search Engine](https://programmablesearchengine.google.com/about/)||
 
 ### 準工程師 (學生、轉職)
