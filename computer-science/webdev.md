@@ -35,12 +35,19 @@
 - [Markdown](https://daringfireball.net/projects/markdown/syntax) - 做筆記，另外參考 `Github Flavored Markdown`、`Gitlab Flavored Markdown`。
 - [Mermaidjs](https://mermaid-js.github.io/mermaid/#/) - 程式產生流程圖、樹狀圖。
 
-### 工程師，怎麼進步？
+### 思維空間轉換
 - 如何快速定位 bug
   - 判斷是前端還是後端的bug、思考邏輯、SOP
-  - F12
-  - `print_r` 
+  - F12 
   - apache error log
+- 如何表達
+  - 如何跟主管說明狀況
+  - 如何跟主管評估時間
+  - 如何跟同事問問題
+  - 如何跟同事分工
+
+### 工程師，怎麼進步？
+
 - 熟悉編輯器
   - 搜尋與取代、正規表達式
   - Compare Tools
@@ -52,12 +59,7 @@
 - 熟悉資料庫操作
   - 資料庫怎麼備份？
 
-### 可靠的工程師
-- 如何表達
-  - 如何跟主管說明狀況
-  - 如何跟主管評估時間
-  - 如何跟同事問問題
-  - 如何跟同事分工
+
 
 ---
 
