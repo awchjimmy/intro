@@ -4,6 +4,11 @@
 - [Frontend Developer](https://roadmap.sh/frontend)
 - [Backend Developer](https://roadmap.sh/backend)
 
+### 10000 小時訓練
+#### [freeCodeCamp](https://chinese.freecodecamp.org/learn/responsive-web-design/)
+- Basic HTML and HTML5
+#### [UVaOJ](https://onlinejudge.org/)
+
 ### 工程師，怎麼進步？
 - 如何快速定位 bug
   - 判斷是前端還是後端的bug、思考邏輯、SOP
@@ -108,7 +113,4 @@
 |[ASTERIA - Dancing With The Moon [MapleStory Symphony in Budapest]](https://www.youtube.com/watch?v=HyfrbLAEUGk&list=RDMM)|2017.01|
 
 
-### 未整理資源
-#### [freeCodeCamp](https://chinese.freecodecamp.org/learn/responsive-web-design/)
-- Basic HTML and HTML5
-#### [UVaOJ](https://onlinejudge.org/)
+
