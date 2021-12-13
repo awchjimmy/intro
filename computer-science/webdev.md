@@ -1,25 +1,8 @@
 # Web Dev
 
-### 準工程師，準備什麼？
-- 大學基礎
-  - Procedural Programming
-  - 物件導向
-  - MVC 架構
-- 網頁工程師
-  - HTML / CSS & Bootstrap /Javascript & JQuery
-  - JS 三大框架 (Vue.js / Angular)
-  - MySQL
-  - PHP
-- 工具
-  - Notepad++ / VSCode
-  - ssh
-  - Filezilla FTP
-  - git (Github / Gitlab)
-  - apache
-- 系統
-  - Ubuntu
-  - MacOS
-
+### 工程師之路
+- [Frontend Developer](https://roadmap.sh/frontend)
+- [Backend Developer](https://roadmap.sh/backend)
 
 ### 工程師，怎麼進步？
 - 如何快速定位 bug
