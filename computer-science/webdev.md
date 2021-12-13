@@ -13,6 +13,7 @@
 - [輪播 owlCaroursel2](https://owlcarousel2.github.io/OwlCarousel2/)
 - [二維碼 Url to QRCode](https://developers.google.com/chart/infographics/docs/qr_codes?hl=en) / [展示-中興昆蟲-FB粉絲專頁](https://chart.apis.google.com/chart?cht=qr&chs=200x200&chld=L|1&chl=https://www.facebook.com/nchuentomol/)
 - [發電子郵件 PHPMailer](https://github.com/PHPMailer/PHPMailer) / [展示-台大新竹-醫療諮詢信箱](https://www.hch.gov.tw/?aid=608)
+- [文稿編輯器 CKEditor4](https://ckeditor.com/ckeditor-4/)
 
 ### 技術問題該怎麼解決
 - [Shotgun surgery](https://en.wikipedia.org/wiki/Shotgun_surgery)
@@ -70,7 +71,7 @@
 ### 曾使用的功能速查
 ||||||
 |---|---|---|---|---|
-||[文稿編輯器 CKEditor]()|[顏色選擇 pickr]()|[匯出Excel PHPExcel]()||
+|||[顏色選擇 pickr]()|[匯出Excel PHPExcel]()||
 |[浮水印 PHP]()|[進站文字特效 WOW.js]()|[身分證字號驗證 JS](http://www.cs.nccu.edu.tw/~lien/BCC/HTML/Js1/checkid.htm)|[Programmable Search Engine](https://programmablesearchengine.google.com/about/)||
 
 ### 準工程師 (學生、轉職)
