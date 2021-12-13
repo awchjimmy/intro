@@ -28,6 +28,7 @@
 
 ### 文件
 - [Markdown](https://daringfireball.net/projects/markdown/syntax) - 做筆記，另外參考 `Github Flavored Markdown`、`Gitlab Flavored Markdown`。
+- [Mermaidjs](https://mermaid-js.github.io/mermaid/#/) - 程式產生流程圖、樹狀圖。
 
 ### 工程師，怎麼進步？
 - 如何快速定位 bug
