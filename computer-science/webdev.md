@@ -10,13 +10,16 @@
 #### [UVaOJ](https://onlinejudge.org/)
 
 ### 實際應用
-- [Bootstrap 4](https://getbootstrap.com/docs/4.6/getting-started/introduction/) / [jQuery](https://jquery.com/)
-- [owlCaroursel2](https://owlcarousel2.github.io/OwlCarousel2/) - 輪播
-- [Url to QRCode](https://developers.google.com/chart/infographics/docs/qr_codes?hl=en) - 二維碼 / [展示-中興昆蟲-FB粉絲專頁](https://chart.apis.google.com/chart?cht=qr&chs=200x200&chld=L|1&chl=https://www.facebook.com/nchuentomol/)
-- [PHPMailer](https://github.com/PHPMailer/PHPMailer) - 發電子郵件 / [展示-台大新竹-醫療諮詢信箱](https://www.hch.gov.tw/?aid=608)
-- [CKEditor4](https://ckeditor.com/ckeditor-4/) - 文稿編輯器
-- [PHPSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) - 匯出Excel / [PHPExcel (ARCHIVED)](https://github.com/PHPOffice/PHPExcel)
-- `<input type="color">` - 顏色選擇 / [pickr](https://simonwep.github.io/pickr/) - 顏色選擇
+|名稱|用途|範例|備註|
+|---|---|---|---|
+|[Bootstrap 4](https://getbootstrap.com/docs/4.6/getting-started/introduction/) / [jQuery](https://jquery.com/)|
+|[owlCaroursel2](https://owlcarousel2.github.io/OwlCarousel2/)|輪播
+|[Url to QRCode (Google)](https://developers.google.com/chart/infographics/docs/qr_codes?hl=en)|二維碼|[中興昆蟲-FB粉絲專頁](http://www.entomol.nchu.edu.tw/)|
+|[Programmable Search Engine (Google)](https://programmablesearchengine.google.com/about/)|自訂搜尋|[台大雲林-Google搜尋](https://www.ylh.gov.tw/?aid=110&pid=11)
+|[PHPMailer](https://github.com/PHPMailer/PHPMailer)|發電子郵件|[台大新竹-醫療諮詢信箱](https://www.hch.gov.tw/?aid=608)
+|[CKEditor4](https://ckeditor.com/ckeditor-4/)|文稿編輯器
+|[PHPSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) / [PHPExcel (ARCHIVED)](https://github.com/PHPOffice/PHPExcel)|匯出Excel
+|`<input type="color">` - 顏色選擇 / [pickr](https://simonwep.github.io/pickr/) - 顏色選擇
 
 ### 技術問題該怎麼解決
 - [Shotgun surgery](https://en.wikipedia.org/wiki/Shotgun_surgery)
@@ -78,8 +81,7 @@
 ### 曾使用的功能速查
 ||||||
 |---|---|---|---|---|
-||||||
-|[浮水印 PHP]()|[進站文字特效 WOW.js]()|[身分證字號驗證 JS](http://www.cs.nccu.edu.tw/~lien/BCC/HTML/Js1/checkid.htm)|[Programmable Search Engine](https://programmablesearchengine.google.com/about/)||
+|[浮水印 PHP]()|[進站文字特效 WOW.js]()|[身分證字號驗證 JS](http://www.cs.nccu.edu.tw/~lien/BCC/HTML/Js1/checkid.htm)|||
 
 ### 準工程師 (學生、轉職)
 |標題|說明|
