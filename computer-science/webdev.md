@@ -19,7 +19,7 @@
 |[PHPMailer](https://github.com/PHPMailer/PHPMailer)|發電子郵件|[台大新竹-醫療諮詢信箱](https://www.hch.gov.tw/?aid=608)
 |[CKEditor4](https://ckeditor.com/ckeditor-4/)|文稿編輯器
 |[PHPSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) / [PHPExcel (ARCHIVED)](https://github.com/PHPOffice/PHPExcel)|匯出Excel
-|`<input type="color">` - 顏色選擇 / [pickr](https://simonwep.github.io/pickr/) - 顏色選擇
+|`<input type="color">` / [pickr](https://simonwep.github.io/pickr/)|顏色選擇
 
 ### 技術問題該怎麼解決
 - [Shotgun surgery](https://en.wikipedia.org/wiki/Shotgun_surgery)
