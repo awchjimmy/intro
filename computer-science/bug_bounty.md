@@ -7,3 +7,6 @@
 |Type|How it works|How to prevent|
 |---|---|---|
 |SQL Injection||[protecting against sql injection](https://www.hacksplaining.com/prevention/sql-injection)|
+
+### 未整理資源
+- [SQL Injection Cheat Sheet](https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/?utm_source=hacksplaining&utm_medium=post&utm_campaign=articlelink)
