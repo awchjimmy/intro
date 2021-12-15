@@ -1,7 +1,9 @@
 # Bug Bounty
 練習練習再練習，沒成功前不評論
 
+### 如何開始
 - [How to Become a Successful Bug Bounty Hunter](https://www.hackerone.com/ethical-hacker/how-become-successful-bug-bounty-hunter)
+- [Researcher Resources - How to become a Bug Bounty Hunter](https://forum.bugcrowd.com/t/researcher-resources-how-to-become-a-bug-bounty-hunter/1102)
 
 ### 核心思想
 |Type|How it works|How to prevent|
