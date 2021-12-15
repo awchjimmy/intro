@@ -3,7 +3,7 @@
 ### Spot
 |Name|Amount|Last Update|
 |---|---|---|
-|SOL|3.1|2021.12|
+||||
 
 ### Archived
 |Name|When|Last Update|Why|
