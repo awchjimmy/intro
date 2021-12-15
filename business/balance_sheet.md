@@ -3,7 +3,7 @@
 ### Spot
 |Name|Amount|Last Update|
 |---|---|---|
-|BIT|279.6|2021.12|
+|SOL|3.1|2021.12|
 
 ### Archived
 |Name|When|Last Update|Why|
