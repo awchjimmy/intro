@@ -8,4 +8,6 @@
 - [ ] 3.
 - [ ] 4. Web Application Security Testing
   - [x] 4.0 Introduction and Objectives
+  - [ ] 4.1 Information Gathering
+    - [x] 4.1.1 Conduct Search Engine Discovery Reconnaissance for Information Leakage
 - [ ] 5.
