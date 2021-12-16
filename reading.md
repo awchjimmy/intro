@@ -3,7 +3,8 @@
 - `WSTG - v4.2 | OWASP`
 - [x] 0. Foreword by Eoin Keary
 - [x] 1. Frontispiece
-- [ ] 2.
+- [ ] 2. Introduction
+  - [x] 2.1 The OWASP Testing Project
 - [ ] 3.
 - [ ] 4.
 - [ ] 5.
