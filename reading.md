@@ -6,5 +6,6 @@
 - [ ] 2. Introduction
   - [x] 2.1 The OWASP Testing Project
 - [ ] 3.
-- [ ] 4.
+- [ ] 4. Web Application Security Testing
+  - [x] 4.0 Introduction and Objectives
 - [ ] 5.
