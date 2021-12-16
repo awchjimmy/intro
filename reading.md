@@ -2,7 +2,7 @@
 
 - `WSTG - v4.2 | OWASP`
 - [x] 0. Foreword by Eoin Keary
-- [ ] 1.
+- [x] 1. Frontispiece
 - [ ] 2.
 - [ ] 3.
 - [ ] 4.
