@@ -3,7 +3,7 @@
 ### Spot
 |Name|Amount|Last Update|
 |---|---|---|
-||||
+|DOGE|3055 @0.174|2021.12|
 
 ### Archived
 |Name|When|Last Update|Why|
