@@ -18,7 +18,9 @@ chmod -R 775 public/
 zip -r filename.zip folder/
 ```
 ```sh
-unzip download.zip
+unzip -o download.zip
+
+# -o: 覆蓋舊檔案
 ```
 
 ### tar - 壓縮/解壓縮
