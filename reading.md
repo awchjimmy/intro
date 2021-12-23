@@ -17,4 +17,5 @@
     - [x] 4.1.6 Identify Application Entry Points
     - [x] 4.1.7 Map Execution Paths Through Application
     - [x] 4.1.8 Fingerprint Web Application Framework
+    - [x] 4.1.9 Fingerprint Web Application
 - [ ] 5.
