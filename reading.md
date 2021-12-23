@@ -16,4 +16,5 @@
     - [x] 4.1.5 Review Webpage Content for Information Leakage
     - [x] 4.1.6 Identify Application Entry Points
     - [x] 4.1.7 Map Execution Paths Through Application
+    - [x] 4.1.8 Fingerprint Web Application Framework
 - [ ] 5.
