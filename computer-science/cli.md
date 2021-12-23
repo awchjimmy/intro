@@ -13,14 +13,15 @@ chmod -R 755 apps/
 chmod -R 775 public/
 ```
 
-### unzip - 解壓縮
+### [unzip](https://linux.die.net/man/1/unzip) - 解壓縮
 ```sh
 zip -r filename.zip folder/
 ```
 ```sh
-unzip -o download.zip
+unzip -o download.zip -d to_dir/
 
-# -o: 覆蓋舊檔案
+-o: 覆蓋
+-d: 解壓資料夾
 ```
 
 ### tar - 壓縮/解壓縮
