@@ -13,4 +13,5 @@
     - [x] 4.1.2 Fingerprint Web Server
     - [x] 4.1.3 Review Webserver Metafiles for Information Leakage
     - [x] 4.1.4 Enumerate Applications on Webserver
+    - [x] 4.1.5 Review Webpage Content for Information Leakage
 - [ ] 5.
