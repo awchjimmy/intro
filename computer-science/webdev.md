@@ -5,9 +5,10 @@
 - [Backend Developer](https://roadmap.sh/backend)
 
 ### 10000 小時訓練
-#### [freeCodeCamp](https://chinese.freecodecamp.org/learn/responsive-web-design/)
-- Basic HTML and HTML5
-#### [UVaOJ](https://onlinejudge.org/)
+- [freeCodeCamp](https://chinese.freecodecamp.org/learn/responsive-web-design/)
+  - Basic HTML and HTML5
+- [UVaOJ](https://onlinejudge.org/) - 老牌資料結構與演算法練習
+- [Grid Garden](https://cssgridgarden.com/) - CSS Grid 教學
 
 ### 實際應用
 |名稱|用途|範例|備註|
