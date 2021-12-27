@@ -65,6 +65,9 @@
 
 ### 未整理文章 (技術)
 * [iframe to Only Show a Certain Part of the Page](https://stackoverflow.com/questions/3272071/iframe-to-only-show-a-certain-part-of-the-page)
+* [Excel export problem in IE](https://stackoverflow.com/questions/6064535/excel-export-problem-in-ie/6065779#6065779)
+* [PHPExcel output to browser doesn't work in IE](https://stackoverflow.com/questions/12174887/phpexcel-output-to-browser-doesnt-work-in-ie)
+* [get radio box value in jquery](https://stackoverflow.com/questions/6614279/get-radio-box-value-in-jquery)
 ---
 
 ### 技術類
@@ -73,7 +76,6 @@
 |[input type=file accept中限制文件类型pdf等格式](https://blog.csdn.net/usuallyuser/article/details/83060341)|限制檔案上傳格式|HTML|
 |[使用 Bootstrap 4 顯示/隱藏 HTML 元素](https://blog.poychang.net/visible-and-hidden-in-bootstrap-4/)|手機版/電腦版靈活切換|CSS|
 |[CSS 垂直置中的三個方法](https://www.oxxostudio.tw/articles/201408/css-vertical-align.html)|如何垂直對齊|CSS|
-|[get radio box value in jquery](https://stackoverflow.com/questions/6614279/get-radio-box-value-in-jquery)|`$("[name='shipping_type']:checked").val()`|JS|
 |[SQL LIKE](https://www.1keydata.com/tw/sql/sqllike.html)<br>[SQL UPDATE](https://www.1keydata.com/tw/sql/sqlupdate.html)<br>[SQL INSERT INTO SELECT](https://www.w3schools.com/SQL/sql_insert_into_select.asp)|基本 SQL|SQL|
 |[UTF-8 encoder/decoder](https://mothereff.in/utf-8)|\x48\x65\x6C\x6C\x6F UTF-8 轉碼|工具|
 
@@ -82,9 +84,7 @@
 |---|---|---|
 |[Bootstrap 4 card deck table-cell columns responsive based on viewport?](https://stackoverflow.com/questions/36487389/bootstrap-4-card-deck-table-cell-columns-responsive-based-on-viewport)|這個才是真正我們需要的 Bootrstrap Card|CSS Grid|
 |[PHPExcel 在 PHP7.0 以上版本报错](https://learnku.com/articles/26675)|20年老專案，又不好整套換掉，只好出此奇招|PHP Library|
-|[Excel export problem in IE](https://stackoverflow.com/questions/6064535/excel-export-problem-in-ie/6065779#6065779)<br>[PHPExcel output to browser doesn't work in IE](https://stackoverflow.com/questions/12174887/phpexcel-output-to-browser-doesnt-work-in-ie)|IE 在 SSL 底下的 Cache 機制|PHP Library|
 |[Email 客戶端之 CSS 支援問題](https://blog.darkthread.net/blog/email-client-css-support/)|Email CSS不支援問題|Email|
-|[mPDF 的中文亂碼問題詳解](https://wake.gs/mpdf-garbled-in-mandarin-v8-0-1/)|輸出 PDF 中文亂碼|PHP Library|
 
 ### 曾使用的功能速查
 ||||||
