@@ -60,8 +60,8 @@
 - 熟悉資料庫操作
   - 資料庫怎麼備份？
 
-
-
+### 未整理文章
+* [The Benefits of Acceptance Testing](https://semaphoreci.com/blog/the-benefits-of-acceptance-testing)
 ---
 
 ### 技術類
