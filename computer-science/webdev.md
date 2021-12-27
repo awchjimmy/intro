@@ -60,8 +60,11 @@
 - 熟悉資料庫操作
   - 資料庫怎麼備份？
 
-### 未整理文章
+### 未整理文章 (觀念)
 * [The Benefits of Acceptance Testing](https://semaphoreci.com/blog/the-benefits-of-acceptance-testing)
+
+### 未整理文章 (技術)
+* [iframe to Only Show a Certain Part of the Page](https://stackoverflow.com/questions/3272071/iframe-to-only-show-a-certain-part-of-the-page)
 ---
 
 ### 技術類
