@@ -84,7 +84,6 @@
 ### 疑難雜症
 |標題|說明|分類|
 |---|---|---|
-|[Bootstrap 4 card deck table-cell columns responsive based on viewport?](https://stackoverflow.com/questions/36487389/bootstrap-4-card-deck-table-cell-columns-responsive-based-on-viewport)|這個才是真正我們需要的 Bootrstrap Card|CSS Grid|
 |[PHPExcel 在 PHP7.0 以上版本报错](https://learnku.com/articles/26675)|20年老專案，又不好整套換掉，只好出此奇招|PHP Library|
 |[Email 客戶端之 CSS 支援問題](https://blog.darkthread.net/blog/email-client-css-support/)|Email CSS不支援問題|Email|
 
