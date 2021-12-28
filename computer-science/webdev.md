@@ -27,6 +27,7 @@
 - [Adminer](https://www.adminer.org/) - 資料庫管理工具
 - [Sourcetree](https://www.sourcetreeapp.com/) - GUI git client
 - [jq](https://github.com/stedolan/jq) - jq is a lightweight and flexible command-line JSON processor
+- [transfer.sh](https://transfer.sh/) - Easy file sharing from the command line
 
 ### 文件
 - [Markdown](https://daringfireball.net/projects/markdown/syntax) - 做筆記，另外參考 `Github Flavored Markdown`、`Gitlab Flavored Markdown`。
