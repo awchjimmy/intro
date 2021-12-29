@@ -74,6 +74,7 @@
 * [get radio box value in jquery](https://stackoverflow.com/questions/6614279/get-radio-box-value-in-jquery)
 * [CI/CD pipelines](https://docs.gitlab.com/ee/ci/pipelines/)
 * [Gitlab Runner Error: sudo: no tty present and no askpass program specified](https://www.jamescoyle.net/how-to/2801-gitlab-runner-error-sudo-no-tty-present-and-no-askpass-program-specified)
+* [Appropriate Uses For SQLite](https://www.sqlite.org/whentouse.html)
 ---
 
 ### 技術類
