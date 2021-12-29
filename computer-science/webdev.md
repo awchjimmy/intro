@@ -72,6 +72,7 @@
 * [Excel export problem in IE](https://stackoverflow.com/questions/6064535/excel-export-problem-in-ie/6065779#6065779)
 * [PHPExcel output to browser doesn't work in IE](https://stackoverflow.com/questions/12174887/phpexcel-output-to-browser-doesnt-work-in-ie)
 * [get radio box value in jquery](https://stackoverflow.com/questions/6614279/get-radio-box-value-in-jquery)
+* [CI/CD pipelines](https://docs.gitlab.com/ee/ci/pipelines/)
 * [Gitlab Runner Error: sudo: no tty present and no askpass program specified](https://www.jamescoyle.net/how-to/2801-gitlab-runner-error-sudo-no-tty-present-and-no-askpass-program-specified)
 ---
 
