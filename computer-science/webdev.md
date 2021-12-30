@@ -75,6 +75,7 @@
 * [CI/CD pipelines](https://docs.gitlab.com/ee/ci/pipelines/)
 * [Gitlab Runner Error: sudo: no tty present and no askpass program specified](https://www.jamescoyle.net/how-to/2801-gitlab-runner-error-sudo-no-tty-present-and-no-askpass-program-specified)
 * [Appropriate Uses For SQLite](https://www.sqlite.org/whentouse.html)
+* [SQLite As An Application File Format](https://www.sqlite.org/appfileformat.html)
 ---
 
 ### 技術類
