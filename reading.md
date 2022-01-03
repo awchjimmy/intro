@@ -14,4 +14,5 @@
     - [x] 4.2.2 Test Application Platform Configuration
     - [x] 4.2.3 Test File Extensions Handling for Sensitive Information
     - [x] 4.2.4 Review Old Backup and Unreferenced Files for Sensitive Information
+    - [x] 4.2.5 Enumerate Infrastructure and Application Admin Interfaces
 - [ ] 5.
