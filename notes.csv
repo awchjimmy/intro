@@ -1,6 +1,0 @@
-Title,Url,Note
-Where is the cron / crontab log?,https://askubuntu.com/questions/56683/where-is-the-cron-crontab-log,
-iframe to Only Show a Certain Part of the Page,https://stackoverflow.com/questions/3272071/iframe-to-only-show-a-certain-part-of-the-page,如果 iframe 的網站也是自己寫的，可以使用 jquery load() 載進來。
-Gitlab Runner Error: sudo: no tty present and no askpass program specified,https://www.jamescoyle.net/how-to/2801-gitlab-runner-error-sudo-no-tty-present-and-no-askpass-program-specified,gitlab-runner 設定 root 權限； 注意：如果駭客將其重新綁定，相當於整台 server 被攻破。
-CI/CD pipelines,https://docs.gitlab.com/ee/ci/pipelines/,
-SQLite Viewer,https://inloop.github.io/sqlite-viewer/,
