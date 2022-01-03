@@ -8,14 +8,10 @@
 - [ ] 3.
 - [ ] 4. Web Application Security Testing
   - [x] 4.0 Introduction and Objectives
-  - [ ] 4.1 Information Gathering
-    - [x] 4.1.1 Conduct Search Engine Discovery Reconnaissance for Information Leakage
-    - [x] 4.1.2 Fingerprint Web Server
-    - [x] 4.1.3 Review Webserver Metafiles for Information Leakage
-    - [x] 4.1.4 Enumerate Applications on Webserver
-    - [x] 4.1.5 Review Webpage Content for Information Leakage
-    - [x] 4.1.6 Identify Application Entry Points
-    - [x] 4.1.7 Map Execution Paths Through Application
-    - [x] 4.1.8 Fingerprint Web Application Framework
-    - [x] 4.1.9 Fingerprint Web Application
+  - [x] 4.1 Information Gathering
+  - [ ] 4.2 Configuration and Deployment Management Testing
+    - [x] 4.2.1 Test Network Infrastructure Configuration
+    - [x] 4.2.2 Test Application Platform Configuration
+    - [x] 4.2.3 Test File Extensions Handling for Sensitive Information
+    - [x] 4.2.4 Review Old Backup and Unreferenced Files for Sensitive Information
 - [ ] 5.
