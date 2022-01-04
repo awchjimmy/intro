@@ -47,7 +47,11 @@
 ### 設計模式
 - [Shotgun surgery](https://en.wikipedia.org/wiki/Shotgun_surgery)
 
-類似的需求，複製貼上到很多地方；如果需求一改變，要整個codebase搜尋與取代。
+  類似的需求，複製貼上到很多地方；如果需求一改變，要整個codebase搜尋與取代。
+
+- [From Good To SOLID: How to Become a Better PHP Developer? - Katerina Trajchevska - PHP UK 2019](https://www.youtube.com/watch?v=ILFcofVJUF4)
+
+  SOLID Principles.
 
 ### 工程師，怎麼進步？
 
