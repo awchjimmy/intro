@@ -35,9 +35,9 @@
 
 ### 思維空間轉換
 - 如何快速定位 bug
-  - 判斷是前端還是後端的bug、思考邏輯、SOP
-  - F12 
-  - apache error log
+
+  參考 [如何 Debug PHP 程式](https://github.com/awchjimmy/intro/blob/main/computer-science/how-to-debug-php-web-app.md)
+  
 - 如何表達
   - 如何跟主管說明狀況
   - 如何跟主管評估時間
