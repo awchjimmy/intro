@@ -9,6 +9,8 @@
 ## 前端問題
 
 ### F12
+- Console Tab
+- Network Tab
 
 ## 後端問題
 
