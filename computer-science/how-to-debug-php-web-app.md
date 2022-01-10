@@ -15,17 +15,17 @@
 ## 後端問題
 
 ### HTTP 狀態
-- HTTP 403 沒有權限
+- HTTP 403 Forbidden
 
   常見狀況：(會員) 檔案無法上傳。  
   解決方法：檢查 linux 主機權限設定。  
 
-- HTTP 404 找不到網頁
+- HTTP 404 Not Found
 
   常見狀況：路徑錯誤。  
   解決方法：檢查路徑。  
 
-- HTTP 500 Server 錯誤
+- HTTP 500 Internal Server Error
 
   常見狀況：主機錯誤 / 程式錯誤。  
   解決方法：去主機上查看 log 檔案。  
@@ -34,7 +34,7 @@
   ```
 
 ### Apache2 httpd error log
-- 關鍵字 `PHP Fatal Error` / `fatal`
+- 關鍵字 `PHP Fatal error`
 
 ## 資料庫問題
 - 欄位不一致
