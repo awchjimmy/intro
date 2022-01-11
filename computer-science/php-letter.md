@@ -14,7 +14,13 @@ PHP 已經有超過 25 年歷史，照理說應該是資源最豐富、整理最
 ### 語言
 `PHP 7.4` 已經進入維護階段，只有資安漏洞才會進行修復；如果情況允許，請用 `PHP 8.x` 開始新專案。
 
+### 第三方 Library
+* 寄信 - [PHPMailer](https://github.com/PHPMailer/PHPMailer)
+* 匯出 Excel - [PHPSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet)
+
 ### 關聯式資料庫
+
+
 
 ---
 
