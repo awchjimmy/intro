@@ -80,6 +80,7 @@
 * [Gitlab Runner Error: sudo: no tty present and no askpass program specified](https://www.jamescoyle.net/how-to/2801-gitlab-runner-error-sudo-no-tty-present-and-no-askpass-program-specified)
 * [Appropriate Uses For SQLite](https://www.sqlite.org/whentouse.html)
 * [SQLite As An Application File Format](https://www.sqlite.org/appfileformat.html)
+* [解決 Python 中 UnicodeDecodeError: 'cp950' codec can't decode](https://oxygentw.net/blog/computer/python-file-utf8-encoding/)
 ---
 
 ### 技術類
