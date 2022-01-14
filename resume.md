@@ -3,8 +3,8 @@
 ### TOC
 
 - [技能](#技能)
-- [Domain Knowledge](#Domain--Knowledge)
-- [FAQ](#FAQ)
+- [Domain Knowledge](#domain-knowledge)
+- [FAQ](#faq)
 
 ### 技能
 
