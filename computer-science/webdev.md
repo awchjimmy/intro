@@ -84,6 +84,7 @@
 * [解決 Python 中 UnicodeDecodeError: 'cp950' codec can't decode](https://oxygentw.net/blog/computer/python-file-utf8-encoding/)
 * [Writing Your First Test | Cypress Documentation](https://docs.cypress.io/guides/getting-started/writing-your-first-test#Add-a-test-file)
 * [E: dpkg was interrupted... run 'sudo dpkg --configure -a'](https://askubuntu.com/questions/163200/e-dpkg-was-interrupted-run-sudo-dpkg-configure-a)
+* [Database: Query Builder](https://laravel.com/docs/8.x/queries)
 ---
 
 ### 技術類
