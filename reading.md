@@ -16,3 +16,9 @@
     - [x] 4.2.4 Review Old Backup and Unreferenced Files for Sensitive Information
     - [x] 4.2.5 Enumerate Infrastructure and Application Admin Interfaces
 - [ ] 5.
+
+- `PHP The Right Way`
+- [x] Ch 01. Welcome
+- [x] Ch 02. Getting Started
+- [x] Ch 03. Code Style Guide
+- [x] Ch 16. Documenting your Code
