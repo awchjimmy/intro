@@ -87,6 +87,7 @@
 * [Database: Query Builder](https://laravel.com/docs/8.x/queries)
 * [如何正確 require autoload.php](https://ithelp.ithome.com.tw/articles/10192496)
 * [Record, replay and measure user flows](https://developer.chrome.com/docs/devtools/recorder/?utm_source=devtools)
+* [How do you read source code at sites like Github?](https://www.quora.com/How-do-you-read-source-code-at-sites-like-Github)
 ---
 
 ### 技術類
