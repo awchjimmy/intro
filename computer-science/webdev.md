@@ -90,6 +90,7 @@
 * [Record, replay and measure user flows](https://developer.chrome.com/docs/devtools/recorder/?utm_source=devtools)
 * [How do you read source code at sites like Github?](https://www.quora.com/How-do-you-read-source-code-at-sites-like-Github)
 * [看到 code 寫成這樣我也是醉了，不如試試重構？系列](https://ithelp.ithome.com.tw/users/20102562/ironman/1338)
+* [Legacy to Laravel: How to Modernize an Aging PHP Application](https://tighten.co/blog/converting-a-legacy-app-to-laravel/)
 ---
 
 ### 技術類
