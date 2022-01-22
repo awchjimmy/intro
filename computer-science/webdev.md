@@ -93,6 +93,7 @@
 * [Legacy to Laravel: How to Modernize an Aging PHP Application](https://tighten.co/blog/converting-a-legacy-app-to-laravel/)
 * [replace \n to new line on vuejs](https://stackoverflow.com/questions/54979287/replace-n-to-new-line-on-vuejs)
 * [Fix “failed to verify the legitimacy of the server” error with cURL](https://linuxpip.org/curl-failed-to-verify-the-legitimacy-of-the-server/)
+* [GitLab CI Start job manually (deployment)](https://stackoverflow.com/questions/36663765/gitlab-ci-start-job-manually-deployment)
 ---
 
 ### 技術類
