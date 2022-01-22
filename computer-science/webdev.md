@@ -92,6 +92,7 @@
 * [看到 code 寫成這樣我也是醉了，不如試試重構？系列](https://ithelp.ithome.com.tw/users/20102562/ironman/1338)
 * [Legacy to Laravel: How to Modernize an Aging PHP Application](https://tighten.co/blog/converting-a-legacy-app-to-laravel/)
 * [replace \n to new line on vuejs](https://stackoverflow.com/questions/54979287/replace-n-to-new-line-on-vuejs)
+* [Fix “failed to verify the legitimacy of the server” error with cURL](https://linuxpip.org/curl-failed-to-verify-the-legitimacy-of-the-server/)
 ---
 
 ### 技術類
