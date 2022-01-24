@@ -1,6 +1,9 @@
 # How to Use Laravel Query Builder
 介紹 Laravel Query Builder 常用功能
 
+### 原文參考
+https://laravel.com/docs/8.x/queries
+
 ### 單獨查一行
 
 - 單獨查一列
