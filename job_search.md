@@ -12,6 +12,7 @@
 |振鋒企業|其他金屬相關製造業|[104](https://www.104.com.tw/job/7ddn5?jobsource=jolist_a_relevance)|`RESTful API` `RDBMS` `React` `Java` `GitHub`|
 |台灣人工智慧學校|人才培育|[104](https://www.104.com.tw/job/7d0ul?jobsource=jolist_a_relevance)|`Vue.js` `PHP` `MySQL` `GitHub` `Python`|
 |微碧愛普|智慧餐飲系統|[104](https://www.104.com.tw/job/77td5?jobsource=jolist_a_relevance)|`Rails` `RESTful API` `Git` `RDBMS` `NoSQL`|
+|奇點無限|數學|[104](https://www.104.com.tw/job/6u3no?jobsource=jolist_c_relevance)||
 
 ### 平台
 - [Workable for Job Seekers](https://jobs.workable.com/)
