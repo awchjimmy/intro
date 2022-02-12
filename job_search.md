@@ -6,6 +6,7 @@
 |公司名稱|徵才管道|要求|
 |---|---|---|
 |如梭世代|[104](https://www.104.com.tw/job/7fr4j?jobsource=jolist_b_relevance)|`OSCP`|
+|中華資安|[104](https://www.104.com.tw/job/7ceej?jobsource=company_job)|`資訊安全解決方案` `資安設備管理`|
 
 ### 台中
 > 因為住在台中，加上大部分的資源都是針對台北，所以動手來蒐集台中的職缺囉！
