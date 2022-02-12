@@ -14,6 +14,7 @@
 |微碧愛普|智慧餐飲系統|[104](https://www.104.com.tw/job/77td5?jobsource=jolist_a_relevance)|`Rails` `RESTful API` `Git` `RDBMS` `NoSQL`|
 |奇點無限|數學|[104](https://www.104.com.tw/job/6u3no?jobsource=jolist_c_relevance)||
 |新夥伴|資訊安全|[104](https://www.104.com.tw/job/4jz7o?jobsource=jolist_c_date)|`Linux` `Networking` `CCNA` `Firewall` `Windows AD`|
+|博睿科技|自動控制|[104](https://www.104.com.tw/job/6ujls?jobsource=company_job)<br>[面試心得](https://www.1111.com.tw/1000w/fanshome/discussTopic.asp?cat=FANS&id=243909)|`Git` `RESTful API` `MySQL` `NodeJS`|
 
 ### 平台
 - [Workable for Job Seekers](https://jobs.workable.com/)
