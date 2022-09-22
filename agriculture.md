@@ -4,8 +4,10 @@
 |影片|備註|
 |----|----|
 |[Advice for Beginning Farmers](https://www.youtube.com/watch?v=AYEo2udXM80)||
+|[How To Start A New Garden (From Start to Finish)](https://www.youtube.com/watch?v=0aNOPuXHCLQ&list=PL5My47TRn9ydMPSTt-5kpxPeL277dpPhZ&index=4)||
 |[Starting a Farm: 7 Tips for Beginners](https://www.youtube.com/watch?v=mJ-MeA-W1Ts)|商業導向種植|
 |[How to Make a No Dig Garden Bed](https://www.youtube.com/watch?v=TVoruCmpfUI&list=PL5My47TRn9ydMPSTt-5kpxPeL277dpPhZ)|種菜|
+
 
 ### 野薑花
 - 種植
