@@ -1,7 +1,10 @@
 # 農莊
 
 ### 如何開始
-- [Advice for Beginning Farmers](https://www.youtube.com/watch?v=AYEo2udXM80)
+|影片|備註|
+|----|----|
+|[Advice for Beginning Farmers](https://www.youtube.com/watch?v=AYEo2udXM80)||
+|[Starting a Farm: 7 Tips for Beginners](https://www.youtube.com/watch?v=mJ-MeA-W1Ts)|商業導向種植|
 
 ### 野薑花
 - 種植
