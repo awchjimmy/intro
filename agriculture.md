@@ -1,5 +1,8 @@
 # 農莊
 
+### 如何開始
+- [Advice for Beginning Farmers](https://www.youtube.com/watch?v=AYEo2udXM80)
+
 ### 野薑花
 - 種植
 
@@ -8,7 +11,7 @@
 |[種野薑花 喜歡濕潤環境～種幾棵做薑花料理滿口清香](https://www.youtube.com/watch?v=RnbWGFmgyks)|種野薑花|
 
 ### 火龍果
-- 火龍果花：酸辣湯
+- 霸王花：酸辣湯
 - 火龍果：白肉/紅肉、仙人掌科、葉子變紅之後代表成熟
 
 ### 養魚
