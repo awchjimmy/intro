@@ -20,6 +20,9 @@
 - 霸王花：酸辣湯
 - 火龍果：白肉/紅肉、仙人掌科、葉子變紅之後代表成熟
 
+### 青江菜
+[播種青江菜㈠ 氣候對三天出芽～怎樣做到？【小棠菜】](https://www.youtube.com/watch?v=-cHqFn-VBv8)
+
 ### 養魚
 - [How To Start A Backyard Tilapia Farm With a $1000](https://www.youtube.com/watch?v=Wnmg_zgD59A)
 - [BioFloc Africa](https://bioflocafrica.com/)
