@@ -17,6 +17,7 @@
 |影片|備註|
 |----|----|
 |[地瓜葉水耕法，20天在家種!!](https://www.youtube.com/watch?v=iHDvBjPsqUo)|台肥 43 號|
+|[【在家種菜】跟著我這樣種就有吃不完的地瓜葉 陽台種菜(阿美美)](https://www.youtube.com/watch?v=80UwwhGnt28)||
 
 ### 野薑花
 - 種植
