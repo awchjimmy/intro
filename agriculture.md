@@ -13,6 +13,11 @@
 |----|----|
 |[《科技苑》 20171218 蔬菜摞著長 畝産增三倍](https://www.youtube.com/watch?v=LZvztEnIuE8)|立柱式氣霧栽培|
 
+### 地瓜葉
+|影片|備註|
+|----|----|
+|[地瓜葉水耕法，20天在家種!!](https://www.youtube.com/watch?v=iHDvBjPsqUo)|台肥 43 號|
+
 ### 野薑花
 - 種植
 
