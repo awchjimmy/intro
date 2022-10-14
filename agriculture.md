@@ -29,6 +29,7 @@
 |[播種青江菜㈠ 氣候對三天出芽～怎樣做到？【小棠菜】](https://www.youtube.com/watch?v=-cHqFn-VBv8)||
 |**秋葵**||
 |**青蔥**||
+|[【彬彬有院】种• 089非常好玩的水培小葱](https://www.youtube.com/watch?v=_RzdGyrbLHg)||
 
 ### 火龍果
 - 霸王花：酸辣湯
