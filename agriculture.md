@@ -23,6 +23,7 @@
 |[【在家種菜】跟著我這樣種就有吃不完的地瓜葉 陽台種菜(阿美美)](https://www.youtube.com/watch?v=80UwwhGnt28)||
 |**野薑花**||
 |[種野薑花 喜歡濕潤環境～種幾棵做薑花料理滿口清香](https://www.youtube.com/watch?v=RnbWGFmgyks)|種野薑花|
+|[姜花如何養，生長更旺盛？](https://www.youtube.com/watch?v=RxpHGP1aTYE)||
 |**木瓜**||
 |[木瓜怎麼切/形象設計](https://www.youtube.com/watch?v=co1YAsAk-Ew)||
 |**青江菜**||
