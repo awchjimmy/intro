@@ -32,6 +32,8 @@
 |**青蔥**||
 |[如何种出永远吃不完的葱](https://www.youtube.com/watch?v=8V96I-RfkRA)||
 |[【彬彬有院】种• 089非常好玩的水培小葱](https://www.youtube.com/watch?v=_RzdGyrbLHg)||
+|**牛油果**||
+|[GROWING AVOCADOS IN HYDROPONICS FROM SEED](https://www.youtube.com/watch?v=1PHHHgr49FI)||
 
 ### 火龍果
 - 霸王花：酸辣湯
